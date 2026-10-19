@@ -1,27 +1,25 @@
-# Pawzi — 30 static ads
+# Pawzi — 20 remade ads
 
-30 square PNG ads (1254 × 1254) for owners of high-energy dogs with IVDD who are on crate rest.
+20 distinct 1080 × 1350 ads for owners of active dogs with IVDD on crate rest. These use the original Pawzi logo, red brand colors, and actual customer quotes from the supplied product page. Four ads include new illustrative photo scenes.
 
-- [Download all 30 ads and the copy index (ZIP, 75 MB)](https://github.com/ballerspace854-dotcom/Hellotest/raw/refs/heads/main/pawzi-ads/pawzi-30-statics.zip)
-- [Download the contact sheet (PDF)](https://github.com/ballerspace854-dotcom/Hellotest/raw/refs/heads/main/pawzi-ads/pawzi-contact-sheet.pdf)
-- [Browse the individual images](pawzi-ads/statics)
-- [Read the copy index](pawzi-ads/ad-copy.csv)
+- [Download all 20 ads, editable SVGs and assets (ZIP, 46 MB)](https://github.com/ballerspace854-dotcom/Hellotest/raw/refs/heads/main/pawzi-remakes/pawzi-remade-20-ads.zip)
+- [View the 20 individual PNGs](pawzi-remakes/statics)
+- [Download the contact sheet (PDF)](https://github.com/ballerspace854-dotcom/Hellotest/raw/refs/heads/main/pawzi-remakes/contact-sheet.pdf)
+- [Read the copy index](pawzi-remakes/copy-index.csv)
+- [Review quote and image sources](pawzi-remakes/sources.md)
 
-Product views follow the supplied product image. Quotes are credited owner words from the supplied research.
+The collection includes customer reviews, product comparisons, a real before-and-after story from the page, and everyday crate-rest scenes. Open `pawzi-remakes/index.html` after unzipping to browse offline.
 
-## Preview all 30
+## Preview all 20
 
-Click any image to open the original.
+Click any image to open the full-size PNG.
 
-| Ad | Ad | Ad |
-| --- | --- | --- |
-| **01**<br>[![Pawzi ad 01](pawzi-ads/statics/01-fetch-loving-dog.png)](pawzi-ads/statics/01-fetch-loving-dog.png) | **02**<br>[![Pawzi ad 02](pawzi-ads/statics/02-small-room-big-energy.png)](pawzi-ads/statics/02-small-room-big-energy.png) | **03**<br>[![Pawzi ad 03](pawzi-ads/statics/03-same-dog-new-setup.png)](pawzi-ads/statics/03-same-dog-new-setup.png) |
-| **04**<br>[![Pawzi ad 04](pawzi-ads/statics/04-active-dog-owner-quote.png)](pawzi-ads/statics/04-active-dog-owner-quote.png) | **05**<br>[![Pawzi ad 05](pawzi-ads/statics/05-held-versus-strapped.png)](pawzi-ads/statics/05-held-versus-strapped.png) | **06**<br>[![Pawzi ad 06](pawzi-ads/statics/06-the-closed-front-door.png)](pawzi-ads/statics/06-the-closed-front-door.png) |
-| **07**<br>[![Pawzi ad 07](pawzi-ads/statics/07-three-simple-steps.png)](pawzi-ads/statics/07-three-simple-steps.png) | **08**<br>[![Pawzi ad 08](pawzi-ads/statics/08-working-beside-the-crate.png)](pawzi-ads/statics/08-working-beside-the-crate.png) | **09**<br>[![Pawzi ad 09](pawzi-ads/statics/09-crate-hater-quote.png)](pawzi-ads/statics/09-crate-hater-quote.png) |
-| **10**<br>[![Pawzi ad 10](pawzi-ads/statics/10-the-floor-is-home-base.png)](pawzi-ads/statics/10-the-floor-is-home-base.png) | **11**<br>[![Pawzi ad 11](pawzi-ads/statics/11-routine-before-after.png)](pawzi-ads/statics/11-routine-before-after.png) | **12**<br>[![Pawzi ad 12](pawzi-ads/statics/12-close-up-strap.png)](pawzi-ads/statics/12-close-up-strap.png) |
-| **13**<br>[![Pawzi ad 13](pawzi-ads/statics/13-light-session-home.png)](pawzi-ads/statics/13-light-session-home.png) | **14**<br>[![Pawzi ad 14](pawzi-ads/statics/14-light-through-day.png)](pawzi-ads/statics/14-light-through-day.png) | **15**<br>[![Pawzi ad 15](pawzi-ads/statics/15-hands-present.png)](pawzi-ads/statics/15-hands-present.png) |
-| **16**<br>[![Pawzi ad 16](pawzi-ads/statics/16-clock-and-crate.png)](pawzi-ads/statics/16-clock-and-crate.png) | **17**<br>[![Pawzi ad 17](pawzi-ads/statics/17-red-light-question.png)](pawzi-ads/statics/17-red-light-question.png) | **18**<br>[![Pawzi ad 18](pawzi-ads/statics/18-know-how-quote.png)](pawzi-ads/statics/18-know-how-quote.png) |
-| **19**<br>[![Pawzi ad 19](pawzi-ads/statics/19-daydream-of-the-ball.png)](pawzi-ads/statics/19-daydream-of-the-ball.png) | **20**<br>[![Pawzi ad 20](pawzi-ads/statics/20-clinic-and-home.png)](pawzi-ads/statics/20-clinic-and-home.png) | **21**<br>[![Pawzi ad 21](pawzi-ads/statics/21-setup-checklist.png)](pawzi-ads/statics/21-setup-checklist.png) |
-| **22**<br>[![Pawzi ad 22](pawzi-ads/statics/22-wide-awake-wild-one.png)](pawzi-ads/statics/22-wide-awake-wild-one.png) | **23**<br>[![Pawzi ad 23](pawzi-ads/statics/23-where-your-dog-rests.png)](pawzi-ads/statics/23-where-your-dog-rests.png) | **24**<br>[![Pawzi ad 24](pawzi-ads/statics/24-after-dinner-routine.png)](pawzi-ads/statics/24-after-dinner-routine.png) |
-| **25**<br>[![Pawzi ad 25](pawzi-ads/statics/25-the-vets-plan.png)](pawzi-ads/statics/25-the-vets-plan.png) | **26**<br>[![Pawzi ad 26](pawzi-ads/statics/26-step-at-home.png)](pawzi-ads/statics/26-step-at-home.png) | **27**<br>[![Pawzi ad 27](pawzi-ads/statics/27-pad-strap-light.png)](pawzi-ads/statics/27-pad-strap-light.png) |
-| **28**<br>[![Pawzi ad 28](pawzi-ads/statics/28-stay-beside-them.png)](pawzi-ads/statics/28-stay-beside-them.png) | **29**<br>[![Pawzi ad 29](pawzi-ads/statics/29-new-pad-same-rules.png)](pawzi-ads/statics/29-new-pad-same-rules.png) | **30**<br>[![Pawzi ad 30](pawzi-ads/statics/30-leash-waits.png)](pawzi-ads/statics/30-leash-waits.png) |
+| Ad | Ad | Ad | Ad |
+| --- | --- | --- | --- |
+| **01**<br>[![Pawzi remade ad 01](pawzi-remakes/statics/01-daymon-ivdd-review.png)](pawzi-remakes/statics/01-daymon-ivdd-review.png) | **02**<br>[![Pawzi remade ad 02](pawzi-remakes/statics/02-sammy-cordless-review.png)](pawzi-remakes/statics/02-sammy-cordless-review.png) | **03**<br>[![Pawzi remade ad 03](pawzi-remakes/statics/03-love-easy-to-use-review.png)](pawzi-remakes/statics/03-love-easy-to-use-review.png) | **04**<br>[![Pawzi remade ad 04](pawzi-remakes/statics/04-taryn-frenchie-review.png)](pawzi-remakes/statics/04-taryn-frenchie-review.png) |
+| **05**<br>[![Pawzi remade ad 05](pawzi-remakes/statics/05-debra-dogs-love-it-review.png)](pawzi-remakes/statics/05-debra-dogs-love-it-review.png) | **06**<br>[![Pawzi remade ad 06](pawzi-remakes/statics/06-only-regret.png)](pawzi-remakes/statics/06-only-regret.png) | **07**<br>[![Pawzi remade ad 07](pawzi-remakes/statics/07-michelle-on-unplugged-use.png)](pawzi-remakes/statics/07-michelle-on-unplugged-use.png) | **08**<br>[![Pawzi remade ad 08](pawzi-remakes/statics/08-lazy-s-on-convenience.png)](pawzi-remakes/statics/08-lazy-s-on-convenience.png) |
+| **09**<br>[![Pawzi remade ad 09](pawzi-remakes/statics/09-sammys-three-words.png)](pawzi-remakes/statics/09-sammys-three-words.png) | **10**<br>[![Pawzi remade ad 10](pawzi-remakes/statics/10-the-99-offer.png)](pawzi-remakes/statics/10-the-99-offer.png) | **11**<br>[![Pawzi remade ad 11](pawzi-remakes/statics/11-one-less-clock.png)](pawzi-remakes/statics/11-one-less-clock.png) | **12**<br>[![Pawzi remade ad 12](pawzi-remakes/statics/12-lay-the-pad-down.png)](pawzi-remakes/statics/12-lay-the-pad-down.png) |
+| **13**<br>[![Pawzi remade ad 13](pawzi-remakes/statics/13-heat-is-different-from-light.png)](pawzi-remakes/statics/13-heat-is-different-from-light.png) | **14**<br>[![Pawzi remade ad 14](pawzi-remakes/statics/14-thirty-days-to-try.png)](pawzi-remakes/statics/14-thirty-days-to-try.png) | **15**<br>[![Pawzi remade ad 15](pawzi-remakes/statics/15-mochi-customer-story-before-after.png)](pawzi-remakes/statics/15-mochi-customer-story-before-after.png) | **16**<br>[![Pawzi remade ad 16](pawzi-remakes/statics/16-vet-plan-stays.png)](pawzi-remakes/statics/16-vet-plan-stays.png) |
+| **17**<br>[![Pawzi remade ad 17](pawzi-remakes/statics/17-the-ball-can-wait.png)](pawzi-remakes/statics/17-the-ball-can-wait.png) | **18**<br>[![Pawzi remade ad 18](pawzi-remakes/statics/18-desk-by-the-pen.png)](pawzi-remakes/statics/18-desk-by-the-pen.png) | **19**<br>[![Pawzi remade ad 19](pawzi-remakes/statics/19-after-dinner.png)](pawzi-remakes/statics/19-after-dinner.png) | **20**<br>[![Pawzi remade ad 20](pawzi-remakes/statics/20-stay-home-light-session.png)](pawzi-remakes/statics/20-stay-home-light-session.png) |
+
+[Earlier 30-ad collection](pawzi-ads)
