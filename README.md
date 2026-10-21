@@ -1,4 +1,16 @@
-# Afterwell — 30 Facebook feed ads
+# Latest Afterwell ad
+
+**Ad 1 · The Wipe-Off · 1080 × 1350**
+
+“Cream goes on. Comes straight back off.”
+
+[Download Ad 1 (PNG)](https://github.com/ballerspace854-dotcom/Hellotest/raw/refs/heads/main/afterwell-sequential/ad-01/afterwell-ad-01-the-wipe-off.png) · [Open the new collection](afterwell-sequential)
+
+[![Latest Afterwell Ad 1](afterwell-sequential/ad-01/afterwell-ad-01-the-wipe-off.png)](afterwell-sequential/ad-01/afterwell-ad-01-the-wipe-off.png)
+
+---
+
+# Earlier Afterwell — 30 Facebook feed ads
 
 30 new 1080 × 1080 ads for parents of autistic children with eczema. Each opens with a familiar skin-discomfort or care-routine problem, then clearly states Afterwell's soothing or moisturizing purpose.
 
