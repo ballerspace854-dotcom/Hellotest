@@ -1,0 +1,18 @@
+{
+  "ad_number": 9,
+  "angle": "Bath tip fact",
+  "headline": "Bath done. Keep the skin damp.",
+  "support": "Put cream on while skin is still a little damp.",
+  "visual_variation": "Child clothed or securely wrapped in towel; damp intact scaly forearm after bath. No universal dose or hot-water instruction.",
+  "headline_word_count": 6,
+  "support_word_count": 10,
+  "filename": "09-bath-done-keep-the-skin-damp.png",
+  "editable": "09-bath-done-keep-the-skin-damp.svg",
+  "scene_asset": "new-09.png",
+  "product_asset": "product-master.png",
+  "logo_asset": "afterwell-logo-blue.png",
+  "dimensions": [
+    1080,
+    1350
+  ]
+}

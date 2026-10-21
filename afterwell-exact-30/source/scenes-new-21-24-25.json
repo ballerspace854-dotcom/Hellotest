@@ -1,0 +1,35 @@
+[
+  {
+    "id": 21,
+    "filename": "new-21.png",
+    "generated_original_path": "/workspace/generated_images/exec-7071d3c7-b9ae-4f1c-86b1-49e9811f9203.png",
+    "description": "Cropped parent reading the blank reverse of an unbranded tube at cool-lit bathroom counter. No words or jars.",
+    "qa": "Viewed original: coherent hands/profile, plain tube, clear counter area for product overlay.",
+    "size": [
+      1122,
+      1402
+    ]
+  },
+  {
+    "id": 24,
+    "filename": "new-24.png",
+    "generated_original_path": "/workspace/generated_images/exec-d21f267b-84b7-4355-8a46-a5fd94187e68.png",
+    "description": "Two clothed school-aged children at craft table, one open hand with tiny cream dab, one withdrawing. Similar intact scaly patches on both; no skin-result comparison.",
+    "qa": "Viewed original: no words or jars, no restraint, no bleeding/open wounds; distinct preferences remain illustrative.",
+    "size": [
+      1122,
+      1402
+    ]
+  },
+  {
+    "id": 25,
+    "filename": "new-25.png",
+    "generated_original_path": "/workspace/generated_images/exec-150d36f7-abe2-4fe3-90d9-c736e566ca0e.png",
+    "description": "Overhead warm wood dresser with partially open drawer containing blank unbranded white ointment tube; ample clear top for fixed product overlay.",
+    "qa": "Viewed original: no words, jars, dosing chart or discarded medicine; believable drawer and tube.",
+    "size": [
+      1122,
+      1402
+    ]
+  }
+]

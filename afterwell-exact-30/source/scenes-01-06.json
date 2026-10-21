@@ -1,0 +1,122 @@
+{
+  "scope": "Eight NEW source photographs only. No finished ad, typography, branded packshot, official logo or publication generated.",
+  "latest_brief": "/workspace/attachments/638f62f9-a172-48a9-838a-bc4e86b03869/Pasted text.txt",
+  "mapping_note": "Retained requested old filenames scene-01..05 for root remapping; new-03/new-06/new-11 are latest-brief scenes.",
+  "images": [
+    {
+      "id": "old-01",
+      "filename": "scene-01.png",
+      "prompt": "Portrait4:5 realistic family skincare source photograph, ordinary over-the-counter moisturizer advertising context. A fully clothed school-age child sits on a rumpled pale blue bed. Close crop shows cotton pajama sleeves, forearms and small hands only, no face. The child gently wipes a white cream smear from their own forearm onto a soft white towel. A clearly visible palm-sized pink dry eczema patch near the elbow has fine white scales and rough surface on INTACT skin; it looks like non-graphic eczema, with no wound or bleeding. Natural daylight and phone-camera skin texture. No adult is applying or restraining anything. Leave the upper-left wall softly empty for later typography and lower-right blanket free for a separate fixed product image. Photo only. No jar, tub, bottle, tube, branded item, words, letters, numbers, logos or graphic overlays anywhere.",
+      "source_path": "/workspace/generated_images/exec-a7ed83ed-a33d-42ef-9709-7da4e6a859fb.png",
+      "output_hint": "Generated images are saved to /workspace/generated_images as /workspace/generated_images/exec-a7ed83ed-a33d-42ef-9709-7da4e6a859fb.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+      "dimensions": [
+        1122,
+        1402
+      ],
+      "saved_path": "/workspace/afterwell-exact-30/assets/scene-01.png",
+      "maps_to_latest_ad": 1,
+      "qa": "Inspected with view_image: no words/logos, no branded packaging, credible anatomy, visible intact dry/scaly skin where present, no blood/open wounds/ooze or clinical result comparison."
+    },
+    {
+      "id": "old-02",
+      "filename": "scene-02.png",
+      "prompt": "Portrait4:5 candid family bedtime photograph for a gentle over-the-counter skin moisturizer advertisement. The fully pajama-clothed child is asleep turned away, face not visible, covered by a blue-gray blanket. A wrist and relaxed small hand rest on top of the blanket. The wrist shows a clearly visible dry pink eczema patch with fine scales on intact skin, non-graphic and not injured. No skincare application or touching while asleep, no parent holding a product. Ordinary bedroom, warm little nightlight in distance, realistic soft phone-camera low-light grain. The restful wrist is lower-right-middle and upper-left is quiet dark wall negative space for later headline. Leave a plain bedside corner empty for separately composited product. No jar or other skincare container, no visible brands, printed words, letters, logos, numbers or screens. Natural ordinary scene, not a posed model photo.",
+      "source_path": "/workspace/generated_images/exec-a1b2f732-5047-4b96-9cf8-3cc299c55bb7.png",
+      "output_hint": "Generated images are saved to /workspace/generated_images as /workspace/generated_images/exec-a1b2f732-5047-4b96-9cf8-3cc299c55bb7.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+      "dimensions": [
+        1122,
+        1402
+      ],
+      "saved_path": "/workspace/afterwell-exact-30/assets/scene-02.png",
+      "maps_to_latest_ad": 2,
+      "qa": "Inspected with view_image: no words/logos, no branded packaging, credible anatomy, visible intact dry/scaly skin where present, no blood/open wounds/ooze or clinical result comparison."
+    },
+    {
+      "id": "old-03",
+      "filename": "scene-03.png",
+      "prompt": "Portrait4:5 source photograph for an ordinary over-the-counter moisturizer advertisement. A small plain wooden cosmetic spatula holds a dollop of thick white ointment over a completely plain unbranded white cosmetic tub on a real bathroom counter. Close tactile still-life, opaque waxy ointment with a heavy glossy ridge and short sticky trail from spatula, recognizable as cosmetic cream. Adult cosmetics setting only, no people or skin. Soft window daylight, phone-camera realism rather than CGI product rendering. Place the small spatula and plain tub on the lower-right half, with generous soft gray tiled wall negative space upper-left for later ad typography. No letters, words, numbers, logos, label printing or graphic overlays anywhere. This is generic other-ointment texture, not a final branded packshot. No cobalt jar.",
+      "source_path": "/workspace/generated_images/exec-237013c5-20ef-4fcf-9258-20c82427f230.png",
+      "output_hint": "Generated images are saved to /workspace/generated_images as /workspace/generated_images/exec-237013c5-20ef-4fcf-9258-20c82427f230.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+      "dimensions": [
+        1122,
+        1402
+      ],
+      "saved_path": "/workspace/afterwell-exact-30/assets/scene-03.png",
+      "maps_to_latest_ad": 13,
+      "qa": "Inspected with view_image: no words/logos, no branded packaging, credible anatomy, visible intact dry/scaly skin where present, no blood/open wounds/ooze or clinical result comparison.",
+      "note": "Root explicitly authorized generic unbranded white cosmetic tub with wooden spatula as a benign texture still-life; no Afterwell or supplier jar generated."
+    },
+    {
+      "id": "old-04",
+      "filename": "scene-04.png",
+      "prompt": "Portrait4:5 realistic parent phone photo, ordinary family eczema skincare advertising context. A clothed school-age child sits beside a small plain desk, face cropped out. The child’s own hand gently pulls a plain soft cotton sleeve DOWN toward their wrist as if wanting to cover the dry area. A large rough ashy-brown eczema patch on medium-brown forearm/wrist is clearly visible, with dry gray-white scales on intact skin; no wounds, bleeding or injury. Child's other hand rests naturally on lap, no adult application or restraint. Focus on the small everyday gesture and cotton fabric, not a fashion model or dramatic distress. Gentle side-window daylight, ordinary imperfect child-room table with blank drawing paper and an unmarked crayon. Leave quiet empty pale wall at upper-left and a clear desk corner lower-right for later copy/packshot. Source photograph only: no jars, tubs, bottles or cream containers, absolutely no words, labels, logos, numbers or graphic overlays.",
+      "source_path": "/workspace/generated_images/exec-f68a6c04-bab5-4030-9480-dda1bf8ec196.png",
+      "output_hint": "Generated images are saved to /workspace/generated_images as /workspace/generated_images/exec-f68a6c04-bab5-4030-9480-dda1bf8ec196.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+      "dimensions": [
+        1122,
+        1402
+      ],
+      "saved_path": "/workspace/afterwell-exact-30/assets/scene-04.png",
+      "maps_to_latest_ad": 23,
+      "qa": "Inspected with view_image: no words/logos, no branded packaging, credible anatomy, visible intact dry/scaly skin where present, no blood/open wounds/ooze or clinical result comparison."
+    },
+    {
+      "id": "old-05",
+      "filename": "scene-05.png",
+      "prompt": "Portrait4:5 natural parent phone photograph of an open ordinary bathroom cupboard filled with about seven half-used unbranded moisturizer squeeze tubes, creased, flattened and folded from use. Only tubes, no cosmetic jars or tubs. Every tube is plain white or pale gray with absolutely blank unprinted surfaces, no words, letters, numbers or logos. A child's plain bath duck on lower shelf suggests a family bathroom, but no people are needed. Eye-level candid view, clean but lived-in bathroom, cool morning daylight, realistic modest clutter and scuffed cabinet edge. Cabinet and tubes occupy right two-thirds; open pale cabinet door on left gives quiet negative space for later headline. Keep lower-right counter area clear for a separately added branded packshot. No graphic design, labels or text in the photograph.",
+      "source_path": "/workspace/generated_images/exec-61b236c9-6e4d-42f5-b99a-897310205900.png",
+      "output_hint": "Generated images are saved to /workspace/generated_images as /workspace/generated_images/exec-61b236c9-6e4d-42f5-b99a-897310205900.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+      "dimensions": [
+        1122,
+        1402
+      ],
+      "saved_path": "/workspace/afterwell-exact-30/assets/scene-05.png",
+      "maps_to_latest_ad": 4,
+      "qa": "Inspected with view_image: no words/logos, no branded packaging, credible anatomy, visible intact dry/scaly skin where present, no blood/open wounds/ooze or clinical result comparison.",
+      "note": "Approximately eight blank tubes visible. Avoid a literal seven-item claim unless final crop changes count."
+    },
+    {
+      "id": "new-03",
+      "filename": "new-03.png",
+      "prompt": "Portrait4:5 close source photograph for ordinary over-the-counter moisturizer advertising, one continuous photo, not split screen. A fully clothed school-age child sits on a bed in plain blue cotton pajamas. Only the pajama sleeve, forearm and relaxed hand are in frame, face absent. A thick WHITE MOISTURIZER SMEAR is visible on the cotton sleeve cuff, beside a broad pink rough dry eczema patch on the intact forearm. Fine white scales and dry texture are visible; non-graphic dermatitis, no broken skin or bleeding. The story is cream on clothes instead of staying on skin. No adult is applying cream. Natural window daylight, believable phone camera detail and real cotton weave, modest imperfect framing. Leave quiet pale bedding or wall across upper-left for later headline and clear bottom-right bedding for separately added product. Absolutely no jars, tubs, tubes, bottles, printed words, letters, numbers, logos, graphic overlays or result comparisons.",
+      "source_path": "/workspace/generated_images/exec-56fc4b8a-95f2-4baa-9d09-f7909882aecb.png",
+      "output_hint": "Generated images are saved to /workspace/generated_images as /workspace/generated_images/exec-56fc4b8a-95f2-4baa-9d09-f7909882aecb.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+      "dimensions": [
+        1122,
+        1402
+      ],
+      "saved_path": "/workspace/afterwell-exact-30/assets/new-03.png",
+      "maps_to_latest_ad": 3,
+      "qa": "Inspected with view_image: no words/logos, no branded packaging, credible anatomy, visible intact dry/scaly skin where present, no blood/open wounds/ooze or clinical result comparison."
+    },
+    {
+      "id": "new-06",
+      "filename": "new-06.png",
+      "prompt": "A portrait4:5 natural family skincare photograph for ordinary over-the-counter moisturizer advertising. Top-down view of a clothed school-age child seated at a simple wooden activity table, face outside frame. Close attention on one inner elbow with a visible pink dry eczema patch, fine white flaky surface but intact closed skin. The child gently places the fingertips of their other hand on this itchy spot, a quiet everyday touch; no injury or distress. Correct ordinary hands and arm anatomy, plain cotton navy short-sleeved shirt. Soft daylight from side, realistic phone-camera texture and modest home setting, not glossy staged stock. Leave pale wall/table negative space above and left for later copy, and clear lower-right table for a separately composited product. Photograph contains NO skincare packaging of any kind, no jars, tubes or tubs, and no words, printed letters, logos, numbers, graphics or watermark. This is a non-graphic eczema-care context, not a treatment-result image.",
+      "source_path": "/workspace/generated_images/exec-1ac0682b-85ec-45f7-9b7f-8b3994568075.png",
+      "output_hint": "Generated images are saved to /workspace/generated_images as /workspace/generated_images/exec-1ac0682b-85ec-45f7-9b7f-8b3994568075.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+      "dimensions": [
+        1122,
+        1402
+      ],
+      "saved_path": "/workspace/afterwell-exact-30/assets/new-06.png",
+      "maps_to_latest_ad": 6,
+      "qa": "Inspected with view_image: no words/logos, no branded packaging, credible anatomy, visible intact dry/scaly skin where present, no blood/open wounds/ooze or clinical result comparison."
+    },
+    {
+      "id": "new-11",
+      "filename": "new-11.png",
+      "prompt": "Portrait4:5 candid bathroom-counter phone photograph for an ordinary moisturizer advertisement. In the lower-left of frame an open small clean bathroom wastebasket contains one visibly crumpled EMPTY white moisturizer squeeze tube, its white label completely BLANK with no printing, no brand, no words, no letters or numbers. A plain white tissue nearby, nothing unhygienic or graphic. Slightly elevated natural angle with cool window light, believable everyday family bathroom, not a showroom. The crushed tube is the story: another discarded skincare purchase. No jars, tubs or branded packaging anywhere. Leave broad unoccupied pale counter and out-of-focus wall at upper half and right side for later headline and fixed packshot. Photo only, no overlays, no diagrams, no visible text on any object.",
+      "source_path": "/workspace/generated_images/exec-5bf74541-0740-4d59-9d14-759783c7b6cb.png",
+      "output_hint": "Generated images are saved to /workspace/generated_images as /workspace/generated_images/exec-5bf74541-0740-4d59-9d14-759783c7b6cb.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+      "dimensions": [
+        1122,
+        1402
+      ],
+      "saved_path": "/workspace/afterwell-exact-30/assets/new-11.png",
+      "maps_to_latest_ad": 11,
+      "qa": "Inspected with view_image: no words/logos, no branded packaging, credible anatomy, visible intact dry/scaly skin where present, no blood/open wounds/ooze or clinical result comparison."
+    }
+  ],
+  "generation_note": "Initial attempts for old01/02/03 and new06 were not delivered after output moderation. Appropriate simpler non-graphic family-skincare or object-only reframes succeeded; no blocked artifact was used."
+}

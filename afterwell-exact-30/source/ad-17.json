@@ -1,0 +1,19 @@
+{
+  "ad_number": 17,
+  "angle": "P5 · Familiar ingredient names",
+  "headline": "Three familiar names. Read the full list.",
+  "support": "Sea moss, aloe and oats.",
+  "visual_variation": "Unbranded ingredient-panel detail versus source jar and INCLUDES caption over three named ingredients. Never imply only three total ingredients.",
+  "footnote": "Contains oats. Patch test first.",
+  "headline_word_count": 7,
+  "support_word_count": 5,
+  "filename": "17-three-familiar-names-read-the-full-list.png",
+  "editable": "17-three-familiar-names-read-the-full-list.svg",
+  "scene_asset": null,
+  "product_asset": "product-master.png",
+  "logo_asset": "afterwell-logo-blue.png",
+  "dimensions": [
+    1080,
+    1350
+  ]
+}

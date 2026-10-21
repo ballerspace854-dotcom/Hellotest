@@ -1,0 +1,18 @@
+{
+  "ad_number": 15,
+  "angle": "P4 · Prescribed care and cream",
+  "headline": "Two creams. Two different jobs.",
+  "support": "Use prescribed care as directed. This cream has no steroids.",
+  "visual_variation": "Respectful two-column care graphic: Rx side caption Use as prescribed.; source-jar side No steroids. No rationing, short-course or flare-day instruction.",
+  "headline_word_count": 5,
+  "support_word_count": 10,
+  "filename": "15-two-creams-two-different-jobs.png",
+  "editable": "15-two-creams-two-different-jobs.svg",
+  "scene_asset": "scene-10.png",
+  "product_asset": "product-master.png",
+  "logo_asset": "afterwell-logo-blue.png",
+  "dimensions": [
+    1080,
+    1350
+  ]
+}

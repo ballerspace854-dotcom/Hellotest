@@ -1,0 +1,18 @@
+{
+  "ad_number": 25,
+  "angle": "P4 · Complementary care",
+  "headline": "Prescribed care plus the daily cream.",
+  "support": "Use as prescribed. This cream has no steroids.",
+  "visual_variation": "New overhead dresser photo: drawer partly open with plain unbranded prescription tube inside; clear dresser-top area for fixed source jar. No medicine-rationing calendar.",
+  "headline_word_count": 6,
+  "support_word_count": 8,
+  "filename": "25-prescribed-care-plus-the-daily-cream.png",
+  "editable": "25-prescribed-care-plus-the-daily-cream.svg",
+  "scene_asset": "new-25.png",
+  "product_asset": "product-master.png",
+  "logo_asset": "afterwell-logo-blue.png",
+  "dimensions": [
+    1080,
+    1350
+  ]
+}

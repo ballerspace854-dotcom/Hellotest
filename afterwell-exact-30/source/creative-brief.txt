@@ -1,0 +1,163 @@
+ROLE
+You are a senior direct-response creative director and Meta ad designer. You make static image ads that stop the scroll for a children's eczema cream called AFTERWELL. You will design 30 static ads across 20 angles. Treat the briefs below as direction, not scripts. Improve hooks, layouts and scenes wherever you can make them stronger, as long as you stay inside the rules.
+
+Generate ONE ad per response, in order (Ad 1, Ad 2...). After each image, write one line: the ad number, the angle, and the exact headline you used. Then wait for me to say "next".
+
+────────────────────────
+1. THE PRODUCT: MATCH IT EXACTLY (this was wrong last time)
+────────────────────────
+Your previous ads showed a squat, short jar with a pale label and a different shape. That is wrong. Use the attached product photo as the master reference for every ad and copy it exactly:
+- Jar: glossy cobalt-blue straight-walled round jar, taller than it is wide, with the same proportions as the photo.
+- Lid: smooth white wide screw lid with a slightly domed top. When the jar is open, show thick, fluffy, whipped white cream peaking above the rim.
+- Label: bright white wrap-around label covering most of the jar body.
+- Label layout, top to bottom: small letter-spaced caps "SOOTHING CREAM"; the large bold navy brand name "AFTERWELL"; then three stacked lines "Sea Moss / Aloe Vera / Oats" in pale lavender-grey with partly bold words, as in the photo; small "4 fl oz / 118 mL" at the bottom left.
+- Match the label's colours, font weights and spacing to the photo. The ONLY text change is the brand name: it says AFTERWELL. Never write "The Ocean Healed My Eczema", "Healed", "Ocean", or any other brand's name or logo anywhere.
+- Keep the jar the same size relative to hands and props across all 30 ads (it fits in an adult palm). No tubes, pumps or other packaging for Afterwell.
+
+────────────────────────
+2. WHO WE'RE TALKING TO
+────────────────────────
+Parents (moms and dads, 25–45) of a child aged about 2–10 who has eczema AND hates having cream put on. The child is often autistic or sensory-sensitive. These parents are problem-aware and solution-aware: they've seen dermatologists, used prescribed steroids, and tried Aveeno, Eucerin, CeraVe, Cetaphil, Vanicream and Aquaphor. Their bathroom cabinet is full of half-used tubes. They are exhausted and sceptical, not naive.
+
+Their real pain (from parent research, use it, don't quote names):
+- The child wipes cream off the second it goes on.
+- Parents wait until the child is asleep to apply it.
+- Thick, greasy creams make clothes and hair stick; to a sensory kid lotion can feel like "slime or dirt"; a gentle touch can feel like a lot.
+- Meltdowns at cream time; bedtime starts with a fight.
+- Scratching all night; rough sheets in the morning; the child can't focus at school.
+- "Unscented" products that still smell.
+- Being scared to try another cream after a bad reaction.
+- Feeling judged when people stare at the child's skin.
+- Steroids work, but parents ration them.
+
+What they want: a cream their child will actually LET them put on and leave on, so the skin stays moisturized and calmer and the child can sleep, play and learn.
+
+What Afterwell is: a soothing daily moisturizing cream with sea moss, aloe vera and oats. It has a light, non-greasy feel, no added fragrance, and no steroids. It's applied as a thin layer on dry, itchy patches, morning and night.
+
+────────────────────────
+3. THE ECZEMA MUST BE VISIBLE AND HARD TO LOOK AWAY FROM
+────────────────────────
+Last round the skin looked basically fine. That kills the hook. In every ad where skin appears, the eczema must be unmistakable and severe at thumbnail size:
+- Angry, inflamed red patches on light skin, or dark brown, purple or grey patches on darker skin.
+- Thickened, leathery, cracked, scaly, flaking texture with visible white flakes, rough edges, and fresh scratch lines.
+- Real locations: inner elbow creases, behind the knees, wrists, backs of hands, neck, cheeks, ankles.
+- Show the itch in action: fingernails mid-scratch, a sleeve pushed up to reveal the patch, a hand rubbing it.
+- Real photography: natural light, phone-camera realism, real skin pores. Not glossy AI skin.
+
+HARD LIMITS on skin (so Meta approves the ad):
+- No blood, open wounds, oozing, weeping or infected-looking skin, and no gore.
+- No side-by-side before/after or "results" comparisons of skin.
+- Never show cream applied to broken skin.
+
+────────────────────────
+4. COPY RULES (Meta policy + honest claims)
+────────────────────────
+- NEVER call out the viewer's or their child's condition. Banned: "For parents of autistic kids", "Your autistic child…", "Your child's eczema…", "Do you have…". These get ads rejected.
+- Instead, describe the SITUATION or the CHILD'S PREFERENCE:
+  - "Waiting until they're asleep to put cream on?"
+  - "For kids who can't stand the feel of lotion."
+  - "When cream time ends in a meltdown."
+  - You MAY describe the product as "made with sensory-sensitive kids in mind."
+- Allowed claims ONLY: soothes and moisturizes dry, itchy, eczema-prone skin · light, non-greasy feel · absorbs fast · no added fragrance · steroid-free · with sea moss, aloe vera and oats · gentle for daily use.
+- BANNED claims: heals, cures, treats, clears, stops or ends eczema or breakouts; any time-bound result ("in 7 days", "first night"); "dermatologist approved"; "safe for newborns"; anything that implies it helps autism.
+- NO fake proof: no star ratings, reviews, testimonials, customer names, "verified buyer", review counts, or screenshots made to look like a real person's text, post or comment.
+- Name competitor brands nowhere. Generic "other creams" or unbranded tubes are fine.
+- Where an angle is about reactions or new creams, add the small line "Contains oats. Patch test first." It builds trust.
+
+Text on each ad: 1 hook headline (max 9 words, huge, readable on a phone in 1 second) + 1 short support line + a small AFTERWELL logo. No paragraphs. High contrast. Navy (#1E2A5A), white and soft blue palette to match the jar.
+
+────────────────────────
+5. FORMAT
+────────────────────────
+- 1080 × 1350 (4:5) unless an ad says otherwise.
+- Mix these styles across the set so no two adjacent ads look alike: lo-fi phone photo; bold text-over-image; split-screen problem vs. product; flat-lay; extreme macro close-up; handwritten note or sticky note; bathroom-cabinet "graveyard"; bedtime night scene; "us vs. other creams" feature checklist (unbranded); demo shot with a timer.
+- The child's face can be partly out of frame or turned away. Focus on skin, hands and the parent's hands.
+- The Afterwell jar must appear clearly in every ad, matching Section 1.
+
+────────────────────────
+6. THE 20 ANGLES → 30 ADS
+────────────────────────
+(Headlines are starting points; write a better one if you can.)
+
+AD 1 · Angle 1: THE WIPE-OFF (solution-aware)
+Cream goes on, comes straight back off. Child's arm with a severe red, cracked elbow patch, a little hand wiping the cream onto a towel or sleeve. Jar on the bed. Hook idea: "Cream goes on. Comes straight back off." Support: light, non-greasy, absorbs fast.
+
+AD 2 · Angle 2: THE SLEEP WORKAROUND (problem-aware)
+Dim bedroom, nightlight, sleeping child with a scaly, inflamed patch on the wrist above the blanket; parent's hand with the open jar. Hook idea: "Waiting until they're asleep to put cream on?"
+
+AD 3 · Angle 3: "LIKE SLIME" (sensory)
+Macro shot of a glossy, greasy ointment stringing between fingers (other cream, unbranded) vs. Afterwell's whipped cream disappearing into skin. Hook idea: "To some kids, thick cream feels like slime."
+
+AD 4 · Angle 4: STICKY SLEEVES
+Child tugging a pyjama sleeve away from a raw-looking, flaky forearm, grimacing. Hook idea: "Greasy cream. Sticky sleeves. Instant meltdown."
+
+AD 5 · Angle 5: THE CREAM GRAVEYARD (solution-aware, concentration)
+Open bathroom cabinet crammed with half-used, unbranded tubes and tubs; a parent's hand pulls out the Afterwell jar. Hook idea: "Every cream in the cabinet. Same angry patches."
+
+AD 6 · Angle 6: "UNSCENTED" THAT STILL SMELLS
+Child pulling face away, nose scrunched, from a tube held near them; Afterwell beside it. Hook idea: "'Unscented.' Then why do they pull away?" Support: no added fragrance.
+
+AD 7 · Angle 7: THE MORNING AFTER
+Crumpled sheets with skin flakes, a child's arm with fresh scratch lines across a severe patch (no blood), morning light, jar on the nightstand. Hook idea: "The sheets tell you how the night went."
+
+AD 8 · Angle 8: CAN'T FOCUS
+Child at a school-style table, scratching an inflamed inner elbow instead of drawing; jar nearby. Hook idea: "Hard to learn when your skin won't stop itching."
+
+AD 9 · Angle 9: THE STARES
+Playground or shop; child's arm with visible patches, blurred adults glancing over; parent's protective hand on the shoulder. Hook idea: "You've seen people stare at their arms."
+
+AD 10 · Angle 10: STEROIDS FOR FLARES, SOMETHING GENTLE FOR EVERY DAY (solution-aware)
+Flat-lay: an unbranded prescription tube labelled "flare days only" on a sticky note, next to Afterwell labelled "every other day". Hook idea: "Saving the steroid cream for bad days?" Support: steroid-free daily moisturizing.
+
+AD 11 · Angle 11: SCARED TO TRY AGAIN
+Parent hesitating at the bathroom sink, jar in hand, sticky note "Contains oats. Patch test first." Child's dry, cracked hand on the counter. Hook idea: "One bad reaction and you're scared to try anything."
+
+AD 12 · Angle 12: TOUCH CAN FEEL LIKE A LOT
+Extreme close-up: a parent's fingertip hovering just above a child's inflamed, scaly patch, not yet touching. Hook idea: "Even a gentle touch can feel like too much."
+
+AD 13 · Angle 13: GONE BEFORE THE SONG ENDS (demo)
+Phone timer on screen at ~0:20; a thin layer of Afterwell rubbing into a dry elbow until barely visible. Hook idea: "Rubbed in before the bedtime song ends."
+
+AD 14 · Angle 14: LITTLE HANDS, THEIR OWN CREAM
+Child dipping one finger into the open jar themselves; a patch on the other arm. Hook idea: "Some kids do better when they do it themselves." Keep it as an idea, not a promise.
+
+AD 15 · Angle 15: BEDTIME STARTS WITH A FIGHT
+Pyjamas laid out, child turned away with arms crossed showing a patch behind the knee; jar on the bed. Hook idea: "Bedtime shouldn't start with a fight over cream."
+
+AD 16 · Angle 16: THE DOCTOR SAID "THICKEST CREAM YOU CAN"
+Split: a thick tub of white ointment with a sticky note "doctor said: thicker is better" vs. a child pushing it away; Afterwell on the right. Hook idea: "The thickest cream only works if they'll let you use it."
+
+AD 17 · Angle 17: CREAM-TIME MELTDOWN
+Child under a blanket on the floor; only an arm with severe eczema is showing; parent kneeling with the jar. Hook idea: "When cream time ends in a meltdown."
+
+AD 18 · Angle 18: ECZEMA NIGHTS
+Hallway at 2 a.m., tired parent in the doorway, child scratching in bed. Hook idea: "Eczema nights are hard on the whole family."
+
+AD 19 · Angle 19: HEATING IS ON (seasonal, October–February)
+Radiator or heating vent in frame, frosty window, child's chapped, cracked cheek and hands. Hook idea: "Heating on. Their skin already knows."
+
+AD 20 · Angle 20: INGREDIENTS YOU CAN SAY OUT LOUD
+Clean flat-lay: jar centred, with real sea moss, an aloe leaf and oats around it, plus a small dry, flaky child's hand at the edge. Hook idea: "Sea moss. Aloe. Oats. No steroids. No added fragrance."
+
+ADS 21–30: second executions. Same angle, completely different format and hook:
+AD 21 · Angle 1 as a lo-fi phone photo of a cream smear on a sleeve.
+AD 22 · Angle 2 as a minimal text-only night ad with the jar silhouette.
+AD 23 · Angle 3 as a "them vs. us" texture checklist (greasy · sticky · scented vs. light · fast-absorbing · no added fragrance).
+AD 24 · Angle 5 as an overhead shot of a pile of unbranded tubes with the jar on top.
+AD 25 · Angle 7 as a macro of a scratched, flaking wrist on a white pillowcase.
+AD 26 · Angle 10 as a two-column "flare days / every day" calendar graphic.
+AD 27 · Angle 13 as a 3-panel strip: scoop → spread → gone.
+AD 28 · Angle 15 as a handwritten bedtime checklist with "cream" circled and the jar beside it.
+AD 29 · Angle 17 as a close-up of a child's hand finally resting open next to the jar (calm, no claim).
+AD 30 · Angle 19 as a split: frosty window vs. the jar on a warm bathroom counter.
+
+────────────────────────
+7. FINAL CHECK BEFORE EACH IMAGE
+────────────────────────
+✔ Jar identical to the reference photo, reading AFTERWELL
+✔ Eczema obvious at thumbnail size, and no blood or open wounds
+✔ Hook ≤ 9 words, readable in 1 second
+✔ No viewer callout of autism or eczema; no banned claims; no fake reviews
+✔ Different look from the previous ad
+
+Start with Ad 1.

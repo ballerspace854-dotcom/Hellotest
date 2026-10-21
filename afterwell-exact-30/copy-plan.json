@@ -1,0 +1,294 @@
+{
+  "count": 30,
+  "size": [
+    1080,
+    1350
+  ],
+  "source_brief": "/workspace/attachments/638f62f9-a172-48a9-838a-bc4e86b03869/Pasted text.txt",
+  "binding_corrections": [
+    "Produce all 30 ads.",
+    "Preserve original supplied cobalt jar, proportions, complete original label and wave logo exactly, including THE OCEAN HEALED MY ECZEMA*. Never rebrand jar Afterwell.",
+    "Use supplied official Afterwell wordmark recolored blue separately in footer only.",
+    "Product-copy facts: sea moss, aloe vera, oats; no steroids; no added fragrance; 4 fl oz; contains oats and patch test first.",
+    "Do not add light, non-greasy, fast-absorbing, soothing, moisturizing or sensory-acceptance product claims to these fact-only copy sets.",
+    "Generic scratch/heat/damp-skin facts are from the user brief. No invented studies, numeric absorption, timelines, customer proof, three-ingredient-total assertion or product fragrance-free claim.",
+    "Source-label wording is a physical packaging exception, not an extra headline healing claim.",
+    "No viewer-condition callout, prescription schedule, steroid rationing, clinical skin comparison, blood, open wounds or cream on broken skin."
+  ],
+  "ads": [
+    {
+      "ad_number": 1,
+      "angle": "P1 · Wipe-off puzzle",
+      "headline": "Thicker cream. Drier skin.",
+      "support": "Some cream ends up on the towel, not the skin.",
+      "visual_variation": "Large thick ointment smear on cotton towel beside inflamed scaly intact elbow; bedroom parent phone crop.",
+      "headline_word_count": 4,
+      "support_word_count": 10
+    },
+    {
+      "ad_number": 2,
+      "angle": "P2 · Waiting for sleep",
+      "headline": "Waiting until they’re asleep. Again.",
+      "support": "Sea moss, aloe and oats. No added fragrance.",
+      "visual_variation": "Dark bedroom, scaly intact wrist above blanket, parent waiting nearby; no application while asleep.",
+      "headline_word_count": 5,
+      "support_word_count": 8
+    },
+    {
+      "ad_number": 3,
+      "angle": "P1 · Cream on the sleeve",
+      "headline": "The cream stayed. On the sleeve.",
+      "support": "Sea moss, aloe and oats. No added fragrance.",
+      "visual_variation": "Two detail crops of one current moment: sleeve smear and intact flaky forearm. No skin-result comparison.",
+      "headline_word_count": 6,
+      "support_word_count": 8
+    },
+    {
+      "ad_number": 4,
+      "angle": "P3 · Many half-used creams",
+      "headline": "More tubes. The same dry patch.",
+      "support": "No added fragrance. No steroids. Sea moss, aloe and oats.",
+      "visual_variation": "Crowded bathroom shelf of unbranded half-used tubes; parent-native straight phone shot, no invented count.",
+      "headline_word_count": 6,
+      "support_word_count": 10
+    },
+    {
+      "ad_number": 5,
+      "angle": "Sensory touch fact",
+      "headline": "A small touch. A big feeling.",
+      "support": "No added fragrance. Sea moss, aloe and oats.",
+      "visual_variation": "Macro parent fingertip hovering above visibly inflamed scaly intact skin; no touching, restraint or fire imagery.",
+      "headline_word_count": 6,
+      "support_word_count": 8
+    },
+    {
+      "ad_number": 6,
+      "angle": "Scratching fact",
+      "headline": "One quick scratch. Then more itch.",
+      "support": "Scratching helps briefly, then makes the itch worse.",
+      "visual_variation": "Small nails gently scratching intact scaly elbow; natural daylight, no blood, open marks or wound.",
+      "headline_word_count": 6,
+      "support_word_count": 8
+    },
+    {
+      "ad_number": 7,
+      "angle": "Winter heat fact",
+      "headline": "Heater on. Dry skin follows.",
+      "support": "Indoor heating dries skin out.",
+      "visual_variation": "Frosty window, heating vent, chapped intact wrist/hand; warm-cool household light contrast.",
+      "headline_word_count": 5,
+      "support_word_count": 5
+    },
+    {
+      "ad_number": 8,
+      "angle": "P2 · Socks at bedtime",
+      "headline": "Socks on little hands. Again.",
+      "support": "Sea moss, aloe and oats. No added fragrance.",
+      "visual_variation": "Quiet night photo of clothed sleeping child with socks covering hands; visible intact scaly arm, no treatment-result implication.",
+      "headline_word_count": 5,
+      "support_word_count": 8
+    },
+    {
+      "ad_number": 9,
+      "angle": "Bath tip fact",
+      "headline": "Bath done. Keep the skin damp.",
+      "support": "Put cream on while skin is still a little damp.",
+      "visual_variation": "Child clothed or securely wrapped in towel; damp intact scaly forearm after bath. No universal dose or hot-water instruction.",
+      "headline_word_count": 6,
+      "support_word_count": 10
+    },
+    {
+      "ad_number": 10,
+      "angle": "P1 · Cream-time overwhelm",
+      "headline": "Cream time. Blanket over the head.",
+      "support": "No steroids. No added fragrance.",
+      "visual_variation": "Humane floor-level parent scene, child chooses blanket and parent waits; exposed intact scaly forearm, no staged tears.",
+      "headline_word_count": 6,
+      "support_word_count": 5
+    },
+    {
+      "ad_number": 11,
+      "angle": "P3 · Gentle label and refusal",
+      "headline": "The tube says gentle. They pull away.",
+      "support": "No added fragrance. No steroids.",
+      "visual_variation": "Crumpled generic gentle-labelled tube and child sleeve pulled back, or discarded unbranded tube on counter; no named customer or false result.",
+      "footnote": "Contains oats. Patch test first.",
+      "headline_word_count": 7,
+      "support_word_count": 5
+    },
+    {
+      "ad_number": 12,
+      "angle": "Child-led cream step",
+      "headline": "Small hands. A say in cream time.",
+      "support": "Sea moss, aloe and oats. No added fragrance.",
+      "visual_variation": "Child finger approaches a small dab on parent hand, child controls distance; intact dry patch visible. No acceptance guarantee.",
+      "headline_word_count": 7,
+      "support_word_count": 8
+    },
+    {
+      "ad_number": 13,
+      "angle": "Us versus them · Thick ointment",
+      "headline": "Thick ointment. What’s in the other jar?",
+      "support": "Sea moss, aloe and oats. No added fragrance.",
+      "visual_variation": "Two-column texture choice: generic unbranded ointment detail and fixed original jar. No unsupported lightness, absorption, shiny-film or competitor-efficacy claim.",
+      "headline_word_count": 7,
+      "support_word_count": 8
+    },
+    {
+      "ad_number": 14,
+      "angle": "Us versus them · Scent wording",
+      "headline": "Unscented can still mean added scent.",
+      "support": "This cream has no added fragrance.",
+      "visual_variation": "Graphic comparison of generic unscented wording and unchanged original jar. Do not describe the product as fragrance-free.",
+      "headline_word_count": 6,
+      "support_word_count": 6
+    },
+    {
+      "ad_number": 15,
+      "angle": "P4 · Prescribed care and cream",
+      "headline": "Two creams. Two different jobs.",
+      "support": "Use prescribed care as directed. This cream has no steroids.",
+      "visual_variation": "Respectful two-column care graphic: Rx side caption Use as prescribed.; source-jar side No steroids. No rationing, short-course or flare-day instruction.",
+      "headline_word_count": 5,
+      "support_word_count": 10
+    },
+    {
+      "ad_number": 16,
+      "angle": "P3 · Cabinet versus child preference",
+      "headline": "Full cabinet. Still nothing stays on.",
+      "support": "No added fragrance. No steroids. Sea moss, aloe and oats.",
+      "visual_variation": "Unbranded cabinet products paired with child gently pulling own arm back. No categorical heavy, sticky or scented claim about every alternative.",
+      "headline_word_count": 6,
+      "support_word_count": 10
+    },
+    {
+      "ad_number": 17,
+      "angle": "P5 · Familiar ingredient names",
+      "headline": "Three familiar names. Read the full list.",
+      "support": "Sea moss, aloe and oats.",
+      "visual_variation": "Unbranded ingredient-panel detail versus source jar and INCLUDES caption over three named ingredients. Never imply only three total ingredients.",
+      "footnote": "Contains oats. Patch test first.",
+      "headline_word_count": 7,
+      "support_word_count": 5
+    },
+    {
+      "ad_number": 18,
+      "angle": "P6 · Named ingredients",
+      "headline": "Three familiar names. No steroids.",
+      "support": "Sea moss, aloe vera and oats. No added fragrance.",
+      "visual_variation": "Clean source jar and modest real sea moss, aloe and oats; intact scaly child hand at edge. No nature-cure promise.",
+      "headline_word_count": 5,
+      "support_word_count": 9
+    },
+    {
+      "ad_number": 19,
+      "angle": "P6 · Sea moss curiosity",
+      "headline": "Seaweed. In the cream jar?",
+      "support": "Sea moss, aloe vera and oats. No added fragrance.",
+      "visual_variation": "Tactile wet sea moss macro beside fixed original jar; focus on ingredient identity, no invented healing mechanism.",
+      "headline_word_count": 5,
+      "support_word_count": 9
+    },
+    {
+      "ad_number": 20,
+      "angle": "P5 · Honest label reading",
+      "headline": "Read the label. Even this one.",
+      "support": "Sea moss, aloe vera and oats. No added fragrance.",
+      "visual_variation": "Graphic label hero using unchanged original product image with separate oats/patch-test note; no fabricated back-label or whole-INCI claim.",
+      "footnote": "Contains oats. Patch test first.",
+      "headline_word_count": 6,
+      "support_word_count": 9
+    },
+    {
+      "ad_number": 21,
+      "angle": "P6 · Read the back",
+      "headline": "The back label gets a second look.",
+      "support": "Unscented can still have added scent. This has no added fragrance.",
+      "visual_variation": "New parent phone photograph: cropped parent squints at BACK of blank unbranded tube by bathroom counter; fixed jar composited separately.",
+      "headline_word_count": 7,
+      "support_word_count": 11
+    },
+    {
+      "ad_number": 22,
+      "angle": "P2 · Late-night cream routine",
+      "headline": "Everyone’s asleep. The cream is still out.",
+      "support": "No steroids. No added fragrance.",
+      "visual_variation": "Dark hallway with tired parent in doorway, child scratching intact skin in bed. No numeric clock or promise of easy application while asleep.",
+      "headline_word_count": 7,
+      "support_word_count": 5
+    },
+    {
+      "ad_number": 23,
+      "angle": "P1 · Sleeve pulled down",
+      "headline": "Long sleeves. Still that dry patch.",
+      "support": "Sea moss, aloe and oats. No added fragrance.",
+      "visual_variation": "Child pulls own sleeve over visibly scaly intact wrist at school craft table; no visible diagnostic identity or shame-inducing crowd.",
+      "headline_word_count": 6,
+      "support_word_count": 8
+    },
+    {
+      "ad_number": 24,
+      "angle": "P3 · Different children, different preferences",
+      "headline": "Same cream. Two different answers.",
+      "support": "Kids can feel the same cream differently.",
+      "visual_variation": "New craft-table photograph: two clothed child forearms with similarly dry scaly intact patches; one offers open arm for tiny dab, other pulls back. No skin improvement or before/after.",
+      "headline_word_count": 5,
+      "support_word_count": 7
+    },
+    {
+      "ad_number": 25,
+      "angle": "P4 · Complementary care",
+      "headline": "Prescribed care plus the daily cream.",
+      "support": "Use as prescribed. This cream has no steroids.",
+      "visual_variation": "New overhead dresser photo: drawer partly open with plain unbranded prescription tube inside; clear dresser-top area for fixed source jar. No medicine-rationing calendar.",
+      "headline_word_count": 6,
+      "support_word_count": 8
+    },
+    {
+      "ad_number": 26,
+      "angle": "P2 · Tired morning",
+      "headline": "Itchy night. Same skin. Tired morning.",
+      "support": "Sea moss, aloe and oats. No added fragrance.",
+      "visual_variation": "Fresh crumpled cotton sheets, sparse dry flakes and intact scaly arm in morning light; no better-sleep or reduced-scratching promise.",
+      "headline_word_count": 6,
+      "support_word_count": 8
+    },
+    {
+      "ad_number": 27,
+      "angle": "P1 · Small amount, long routine",
+      "headline": "A tiny dab. A big deal.",
+      "support": "Sea moss, aloe and oats. No added fragrance.",
+      "visual_variation": "Small cream dab on fingertip beside intact dry elbow; child-led pause. No promise a thin layer stays on, numerical dose or absorption time.",
+      "headline_word_count": 7,
+      "support_word_count": 8
+    },
+    {
+      "ad_number": 28,
+      "angle": "P5 · Worry after a reaction",
+      "headline": "One bad reaction. The next jar waits.",
+      "support": "No steroids. No added fragrance.",
+      "visual_variation": "Parent hand paused over closed original jar with child dry intact hand on counter. No pictured reaction outcome or no-sting guarantee.",
+      "footnote": "Contains oats. Patch test first.",
+      "headline_word_count": 7,
+      "support_word_count": 5
+    },
+    {
+      "ad_number": 29,
+      "angle": "P6 · Fragrance label check",
+      "headline": "Check for fragrance. Even in unscented cream.",
+      "support": "This cream has no added fragrance.",
+      "visual_variation": "Clean bathroom photo plus generic label-reading note. Fragrance-free guidance may be discussed as a shopping distinction, never as an unsupported product claim.",
+      "headline_word_count": 7,
+      "support_word_count": 6
+    },
+    {
+      "ad_number": 30,
+      "angle": "Mixed · Skin gives the clue",
+      "headline": "The skin shows what words can’t.",
+      "support": "Sea moss, aloe and oats. No added fragrance.",
+      "visual_variation": "Intact cracked-looking scaly knee crease macro with original jar composited clearly nearby; no wound, treatment result or before/after.",
+      "headline_word_count": 6,
+      "support_word_count": 8
+    }
+  ]
+}

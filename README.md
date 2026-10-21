@@ -1,4 +1,20 @@
-# Latest Afterwell ad
+# Afterwell — 30 new ads
+
+30 finished **1080 × 1350** ads following the updated brief. The jar retains its original printed label and wave mark. The supplied Afterwell logo appears separately in blue.
+
+- [View all 30 ads](afterwell-exact-30/README.md)
+- [Download all 30 full-size PNGs (ZIP)](https://github.com/ballerspace854-dotcom/Hellotest/raw/refs/heads/main/afterwell-exact-30/afterwell-exact-30.zip)
+- [Open individual PNGs](afterwell-exact-30/statics)
+- [View the contact sheet (PDF)](afterwell-exact-30/contact-sheet.pdf)
+
+[![Preview of all 30 new Afterwell ads](afterwell-exact-30/contact-sheet.jpg)](afterwell-exact-30/README.md)
+
+---
+
+<details>
+<summary>Earlier collections</summary>
+
+# Earlier Afterwell Ad 1
 
 **Ad 1 · The Wipe-Off · 1080 × 1350**
 
@@ -40,3 +56,5 @@ Click any image to open the full-size PNG.
 | **28**<br>[![Afterwell ad 28](afterwell-30/statics/28-even-the-smell.png)](afterwell-30/statics/28-even-the-smell.png) | **29**<br>[![Afterwell ad 29](afterwell-30/statics/29-cream-feels-okay.png)](afterwell-30/statics/29-cream-feels-okay.png) | **30**<br>[![Afterwell ad 30](afterwell-30/statics/30-one-dry-patch.png)](afterwell-30/statics/30-one-dry-patch.png) |
 
 Earlier Pawzi collections: [20 solution ads](pawzi-solutions-20) · [20 feature-focused ads](pawzi-facebook-20) · [Previous 20](pawzi-remakes) · [Original 30](pawzi-ads)
+
+</details>

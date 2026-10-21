@@ -1,0 +1,18 @@
+{
+  "ad_number": 1,
+  "angle": "P1 · Wipe-off puzzle",
+  "headline": "Thicker cream. Drier skin.",
+  "support": "Some cream ends up on the towel, not the skin.",
+  "visual_variation": "Large thick ointment smear on cotton towel beside inflamed scaly intact elbow; bedroom parent phone crop.",
+  "headline_word_count": 4,
+  "support_word_count": 10,
+  "filename": "01-thicker-cream-drier-skin.png",
+  "editable": "01-thicker-cream-drier-skin.svg",
+  "scene_asset": "scene-01.png",
+  "product_asset": "product-master.png",
+  "logo_asset": "afterwell-logo-blue.png",
+  "dimensions": [
+    1080,
+    1350
+  ]
+}

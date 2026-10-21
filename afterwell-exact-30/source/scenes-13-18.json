@@ -1,0 +1,101 @@
+{
+  "assignment": "Updated source-only assignment: old13/14/16/17/18 plus new09 bath; old15 cancelled before a successful image.",
+  "scenes": [
+    {
+      "source_id": 13,
+      "new_ad": 27,
+      "filename": "scene-13.png",
+      "path": "/workspace/afterwell-exact-30/assets/scene-13.png",
+      "generated_original_path": "/workspace/generated_images/exec-543adcfd-3ad5-46fa-805f-89b7ce3c6e04.png",
+      "generation_prompt": "A realistic vertical 4:5 home-care photograph for an eczema education project. Close crop of an adult hand gently spreading a thin white moisturizing cream onto a child's dry inner elbow. The child wears a loose cotton long-sleeved pajama top with the sleeve rolled up and rests their arm on a rumpled blanket. Only the hands, forearm, elbow and pajama fabric are in the frame. The elbow has a clear red, scaly dermatitis patch, with intact skin and no wounds. Ordinary warm bedroom lamp light, candid parent phone-camera realism, not a studio model. Normal anatomy. No packaging, no jar, no text, no logo, no timer, no before-and-after comparison. A calm, voluntary skincare moment.",
+      "type": "Source photograph only; parent phone realism",
+      "intended_aspect_ratio": "4:5",
+      "visually_inspected": true,
+      "notes": [
+        "No text, logo or Afterwell product. Generic blank white ointment tub only in source16.",
+        "Visible scaly inflamed intact skin, no blood/open wounds/infection.",
+        "Root composites final copy, exact jar and official logo separately."
+      ]
+    },
+    {
+      "source_id": 14,
+      "new_ad": 12,
+      "filename": "scene-14.png",
+      "path": "/workspace/afterwell-exact-30/assets/scene-14.png",
+      "generated_original_path": "/workspace/generated_images/exec-1aa3a895-6908-4f9d-9981-c9b50e6255dd.png",
+      "generation_prompt": "Vertical 4:5 commercial source photograph for an ordinary moisturizing cream ad. A school-age child's own relaxed hand holds its index finger upward with a tiny dab of plain white cosmetic cream on the fingertip, curious and voluntary. The child's other forearm rests nearby on a cotton towel, showing a noticeable dark red-brown scaly eczema patch with dry flakes and intact skin near the elbow. Child wears a mustard cotton T-shirt, only hands, forearms and fabric visible. Medium-brown skin, soft daylight at a lived-in bathroom counter, candid parent phone camera. Clear normal hand anatomy. No container, no jar, no product packaging, no text, labels or logos. No medical outcome or comparison.",
+      "type": "Source photograph only; parent phone realism",
+      "intended_aspect_ratio": "4:5",
+      "visually_inspected": true,
+      "notes": [
+        "No text, logo or Afterwell product. Generic blank white ointment tub only in source16.",
+        "Visible scaly inflamed intact skin, no blood/open wounds/infection.",
+        "Root composites final copy, exact jar and official logo separately."
+      ]
+    },
+    {
+      "source_id": 16,
+      "new_ad": 16,
+      "filename": "scene-16.png",
+      "path": "/workspace/afterwell-exact-30/assets/scene-16.png",
+      "generated_original_path": "/workspace/generated_images/exec-cc858dcf-733a-4c1c-8986-613a3a13bff1.png",
+      "generation_prompt": "Vertical 4:5 close commercial source photograph for an everyday moisturizing cream ad, parent phone-camera realism. In the foreground an adult hand holds a plain small white plastic tub of thick white ointment, unbranded and completely blank; a small child's hand gently pushes the side of the tub away, a calm boundary rather than drama. The child's clothed cotton sleeve and wrist are in frame, a distinct dry red-brown scaly eczema patch on the wrist has intact skin. Dark brown family skin tone. Thick white cream texture visibly peaks in the open tub. Ordinary gray bathroom counter behind, natural soft afternoon light, no face, believable fingers and hands. No words or labels, no logos, no prescription or medical symbols, no second product, no comparison image. Only the generic blank ointment tub is allowed.",
+      "type": "Source photograph only; parent phone realism",
+      "intended_aspect_ratio": "4:5",
+      "visually_inspected": true,
+      "notes": [
+        "No text, logo or Afterwell product. Generic blank white ointment tub only in source16.",
+        "Visible scaly inflamed intact skin, no blood/open wounds/infection.",
+        "Root composites final copy, exact jar and official logo separately."
+      ]
+    },
+    {
+      "source_id": 17,
+      "new_ad": 10,
+      "filename": "scene-17.png",
+      "path": "/workspace/afterwell-exact-30/assets/scene-17.png",
+      "generated_original_path": "/workspace/generated_images/exec-1790e749-eb6e-4b93-9ced-b09327162007.png",
+      "generation_prompt": "A realistic portrait 4:5 family lifestyle source photo for an eczema-care article. Cozy child's blanket fort in a normal living room, an elementary-school child in a long-sleeved cotton top sits just inside the opening with their back turned and head outside the crop. Their forearm rests on the rug in the foreground, rolled cuff showing a clear red, dry, scaly intact eczema patch. A parent kneels outside the opening, hands on their own knees, calm and respectful. No touching or forced care. The child's clothing and blue fort blanket fill the frame except the forearm. Soft daytime window light, ordinary used toys and rug, natural phone photograph. No wounds, product jars, packaging, text, labels, logos or graphics.",
+      "type": "Source photograph only; parent phone realism",
+      "intended_aspect_ratio": "4:5",
+      "visually_inspected": true,
+      "notes": [
+        "No text, logo or Afterwell product. Generic blank white ointment tub only in source16.",
+        "Visible scaly inflamed intact skin, no blood/open wounds/infection.",
+        "Root composites final copy, exact jar and official logo separately."
+      ]
+    },
+    {
+      "source_id": 18,
+      "new_ad": 22,
+      "filename": "scene-18.png",
+      "path": "/workspace/afterwell-exact-30/assets/scene-18.png",
+      "generated_original_path": "/workspace/generated_images/exec-9abf499d-0857-46b3-a827-8a59decc8c88.png",
+      "generation_prompt": "Portrait 4:5 realistic family lifestyle photograph for an eczema-care article. A quiet dim bedroom at night, photographed candidly from just inside the doorway. In foreground only the child's cotton pajama sleeves and hands resting on a rumpled blanket are visible. One hand gently rubs the other wrist, which has a clearly visible dry red scaly eczema patch with intact skin. A parent wearing an ordinary sweatshirt and pajama trousers stands in the hallway in the soft-focus background, seen from shoulders down, hand on door frame. No faces in frame. Small warm nightlight, blue-gray shadows and genuine phone night-mode grain. Ordinary family home, calm awake skincare concern, no distress or injury. No clock, text, logos, product jars, medicine containers, before-after or graphic design.",
+      "type": "Source photograph only; parent phone realism",
+      "intended_aspect_ratio": "4:5",
+      "visually_inspected": true,
+      "notes": [
+        "No text, logo or Afterwell product. Generic blank white ointment tub only in source16.",
+        "Visible scaly inflamed intact skin, no blood/open wounds/infection.",
+        "Root composites final copy, exact jar and official logo separately."
+      ]
+    },
+    {
+      "source_id": "new-09",
+      "new_ad": 9,
+      "filename": "new-09.png",
+      "path": "/workspace/afterwell-exact-30/assets/new-09.png",
+      "generated_original_path": "/workspace/generated_images/exec-119d9bfe-e912-404d-b390-5b92c792c18b.png",
+      "generation_prompt": "A realistic portrait 4:5 parent-phone source photo of an ordinary after-bath skincare routine. Close crop of a child wearing a cotton bathrobe, with a large soft white cotton towel wrapped securely around the robe. The robe cuff is rolled up to reveal just one forearm and elbow, still slightly damp with a few water beads. A clear red rough scaly eczema patch at the elbow has intact skin. Parent's normal hand rests nearby on the bathroom counter, not restraining or applying anything. Only towel, robe fabric, forearm, elbow and parent hand are framed; no face. Ordinary bathroom tiles, warm natural light, authentic texture and mild phone grain. No product jars or containers, no text, no labels, no logo, no comparisons or skin improvement. Calm family-care photo.",
+      "type": "Source photograph only; parent phone realism",
+      "intended_aspect_ratio": "4:5",
+      "visually_inspected": true,
+      "notes": [
+        "No text, logo or Afterwell product. Generic blank white ointment tub only in source16.",
+        "Visible scaly inflamed intact skin, no blood/open wounds/infection.",
+        "Root composites final copy, exact jar and official logo separately."
+      ]
+    }
+  ]
+}

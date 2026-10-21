@@ -1,0 +1,18 @@
+{
+  "ad_number": 6,
+  "angle": "Scratching fact",
+  "headline": "One quick scratch. Then more itch.",
+  "support": "Scratching helps briefly, then makes the itch worse.",
+  "visual_variation": "Small nails gently scratching intact scaly elbow; natural daylight, no blood, open marks or wound.",
+  "headline_word_count": 6,
+  "support_word_count": 8,
+  "filename": "06-one-quick-scratch-then-more-itch.png",
+  "editable": "06-one-quick-scratch-then-more-itch.svg",
+  "scene_asset": "new-06.png",
+  "product_asset": "product-master.png",
+  "logo_asset": "afterwell-logo-blue.png",
+  "dimensions": [
+    1080,
+    1350
+  ]
+}

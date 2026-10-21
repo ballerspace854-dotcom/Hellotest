@@ -1,0 +1,18 @@
+{
+  "ad_number": 7,
+  "angle": "Winter heat fact",
+  "headline": "Heater on. Dry skin follows.",
+  "support": "Indoor heating dries skin out.",
+  "visual_variation": "Frosty window, heating vent, chapped intact wrist/hand; warm-cool household light contrast.",
+  "headline_word_count": 5,
+  "support_word_count": 5,
+  "filename": "07-heater-on-dry-skin-follows.png",
+  "editable": "07-heater-on-dry-skin-follows.svg",
+  "scene_asset": "new-07.png",
+  "product_asset": "product-master.png",
+  "logo_asset": "afterwell-logo-blue.png",
+  "dimensions": [
+    1080,
+    1350
+  ]
+}

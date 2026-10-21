@@ -1,0 +1,18 @@
+{
+  "ad_number": 29,
+  "angle": "P6 · Fragrance label check",
+  "headline": "Check for fragrance. Even in unscented cream.",
+  "support": "This cream has no added fragrance.",
+  "visual_variation": "Clean bathroom photo plus generic label-reading note. Fragrance-free guidance may be discussed as a shopping distinction, never as an unsupported product claim.",
+  "headline_word_count": 7,
+  "support_word_count": 6,
+  "filename": "29-check-for-fragrance-even-in-unscented-cream.png",
+  "editable": "29-check-for-fragrance-even-in-unscented-cream.svg",
+  "scene_asset": "new-29.png",
+  "product_asset": "product-master.png",
+  "logo_asset": "afterwell-logo-blue.png",
+  "dimensions": [
+    1080,
+    1350
+  ]
+}
