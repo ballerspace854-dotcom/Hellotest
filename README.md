@@ -1,25 +1,30 @@
-# Pawzi — 20 solution ads
+# Afterwell — 30 Facebook feed ads
 
-20 new Facebook feed ads for owners of high-energy dogs with IVDD on crate rest. Each opens with the dog's pain and the owner's worry or helplessness, then introduces Pawzi red light as a way to help ease back pain at home.
+30 new 1080 × 1080 ads for parents of autistic children with eczema. Each opens with a familiar skin-discomfort or care-routine problem, then clearly states Afterwell's soothing or moisturizing purpose.
 
-New scenes include restless nights, sitting beside the crate, putting toys away, and missing the dog's normal playtime. The product appears as the smaller answer to that moment.
+- [Download all 30 finished ads (ZIP)](https://github.com/ballerspace854-dotcom/Hellotest/raw/refs/heads/main/afterwell-30/afterwell-30.zip)
+- [Browse the individual PNGs](afterwell-30/statics)
+- [Download the contact sheet (PDF)](https://github.com/ballerspace854-dotcom/Hellotest/raw/refs/heads/main/afterwell-30/contact-sheet.pdf)
+- [Read the copy and research index](afterwell-30/copy-index.csv)
+- [Read source and image notes](afterwell-30/sources.md)
 
-- [Download all 20 finished ads (ZIP)](https://github.com/ballerspace854-dotcom/Hellotest/raw/refs/heads/main/pawzi-solutions-20/pawzi-solutions-20.zip)
-- [Browse the individual PNGs](pawzi-solutions-20/statics)
-- [Download the contact sheet (PDF)](https://github.com/ballerspace854-dotcom/Hellotest/raw/refs/heads/main/pawzi-solutions-20/contact-sheet.pdf)
-- [Read the problem and solution copy index](pawzi-solutions-20/copy-index.csv)
-- [Read source notes](pawzi-solutions-20/sources.md)
+Branding uses a temporary plain Afterwell wordmark and an illustrative own-brand jar label; no official Afterwell logo or final label was attached. New scene illustrations are not actual customers or clinical outcome photographs.
 
-## Preview the 20 solution ads
+## Preview all 30 Afterwell ads
 
-Click any image to open the full-size 1080 × 1080 PNG.
+Click any image to open the full-size PNG.
 
-| Ad | Ad | Ad | Ad |
-| --- | --- | --- | --- |
-| **01**<br>[![Pawzi solution ad 01](pawzi-solutions-20/statics/01-they-keep-shifting.png)](pawzi-solutions-20/statics/01-they-keep-shifting.png) | **02**<br>[![Pawzi solution ad 02](pawzi-solutions-20/statics/02-the-ball-is-right-there.png)](pawzi-solutions-20/statics/02-the-ball-is-right-there.png) | **03**<br>[![Pawzi solution ad 03](pawzi-solutions-20/statics/03-you-would-take-their-pain.png)](pawzi-solutions-20/statics/03-you-would-take-their-pain.png) | **04**<br>[![Pawzi solution ad 04](pawzi-solutions-20/statics/04-you-miss-the-zoomies.png)](pawzi-solutions-20/statics/04-you-miss-the-zoomies.png) |
-| **05**<br>[![Pawzi solution ad 05](pawzi-solutions-20/statics/05-on-the-floor-again.png)](pawzi-solutions-20/statics/05-on-the-floor-again.png) | **06**<br>[![Pawzi solution ad 06](pawzi-solutions-20/statics/06-another-restless-night.png)](pawzi-solutions-20/statics/06-another-restless-night.png) | **07**<br>[![Pawzi solution ad 07](pawzi-solutions-20/statics/07-head-pats-dont-feel-enough.png)](pawzi-solutions-20/statics/07-head-pats-dont-feel-enough.png) | **08**<br>[![Pawzi solution ad 08](pawzi-solutions-20/statics/08-why-playtime-stopped.png)](pawzi-solutions-20/statics/08-why-playtime-stopped.png) |
-| **09**<br>[![Pawzi solution ad 09](pawzi-solutions-20/statics/09-every-little-move.png)](pawzi-solutions-20/statics/09-every-little-move.png) | **10**<br>[![Pawzi solution ad 10](pawzi-solutions-20/statics/10-right-beside-them.png)](pawzi-solutions-20/statics/10-right-beside-them.png) | **11**<br>[![Pawzi solution ad 11](pawzi-solutions-20/statics/11-soft-bed-sore-back.png)](pawzi-solutions-20/statics/11-soft-bed-sore-back.png) | **12**<br>[![Pawzi solution ad 12](pawzi-solutions-20/statics/12-warm-spot-sore-back.png)](pawzi-solutions-20/statics/12-warm-spot-sore-back.png) |
-| **13**<br>[![Pawzi solution ad 13](pawzi-solutions-20/statics/13-a-much-quieter-house.png)](pawzi-solutions-20/statics/13-a-much-quieter-house.png) | **14**<br>[![Pawzi solution ad 14](pawzi-solutions-20/statics/14-you-bring-everything-to-them.png)](pawzi-solutions-20/statics/14-you-bring-everything-to-them.png) | **15**<br>[![Pawzi solution ad 15](pawzi-solutions-20/statics/15-tail-still-wags.png)](pawzi-solutions-20/statics/15-tail-still-wags.png) | **16**<br>[![Pawzi solution ad 16](pawzi-solutions-20/statics/16-cant-get-comfortable.png)](pawzi-solutions-20/statics/16-cant-get-comfortable.png) |
-| **17**<br>[![Pawzi solution ad 17](pawzi-solutions-20/statics/17-you-both-need-rest.png)](pawzi-solutions-20/statics/17-you-both-need-rest.png) | **18**<br>[![Pawzi solution ad 18](pawzi-solutions-20/statics/18-long-crate-rest-days.png)](pawzi-solutions-20/statics/18-long-crate-rest-days.png) | **19**<br>[![Pawzi solution ad 19](pawzi-solutions-20/statics/19-their-old-self.png)](pawzi-solutions-20/statics/19-their-old-self.png) | **20**<br>[![Pawzi solution ad 20](pawzi-solutions-20/statics/20-they-would-choose-the-ball.png)](pawzi-solutions-20/statics/20-they-would-choose-the-ball.png) |
+| Ad | Ad | Ad |
+| --- | --- | --- |
+| **01**<br>[![Afterwell ad 01](afterwell-30/statics/01-cream-straight-back-off.png)](afterwell-30/statics/01-cream-straight-back-off.png) | **02**<br>[![Afterwell ad 02](afterwell-30/statics/02-waiting-for-bedtime.png)](afterwell-30/statics/02-waiting-for-bedtime.png) | **03**<br>[![Afterwell ad 03](afterwell-30/statics/03-hard-to-focus.png)](afterwell-30/statics/03-hard-to-focus.png) |
+| **04**<br>[![Afterwell ad 04](afterwell-30/statics/04-another-half-used-cream.png)](afterwell-30/statics/04-another-half-used-cream.png) | **05**<br>[![Afterwell ad 05](afterwell-30/statics/05-same-sore-spot.png)](afterwell-30/statics/05-same-sore-spot.png) | **06**<br>[![Afterwell ad 06](afterwell-30/statics/06-still-looking-for-comfort.png)](afterwell-30/statics/06-still-looking-for-comfort.png) |
+| **07**<br>[![Afterwell ad 07](afterwell-30/statics/07-cream-feels-too-much.png)](afterwell-30/statics/07-cream-feels-too-much.png) | **08**<br>[![Afterwell ad 08](afterwell-30/statics/08-cream-time-needs-a-pause.png)](afterwell-30/statics/08-cream-time-needs-a-pause.png) | **09**<br>[![Afterwell ad 09](afterwell-30/statics/09-you-know-the-routine.png)](afterwell-30/statics/09-you-know-the-routine.png) |
+| **10**<br>[![Afterwell ad 10](afterwell-30/statics/10-dry-skin-greasy-skin.png)](afterwell-30/statics/10-dry-skin-greasy-skin.png) | **11**<br>[![Afterwell ad 11](afterwell-30/statics/11-itch-and-texture.png)](afterwell-30/statics/11-itch-and-texture.png) | **12**<br>[![Afterwell ad 12](afterwell-30/statics/12-pajamas-are-ready.png)](afterwell-30/statics/12-pajamas-are-ready.png) |
+| **13**<br>[![Afterwell ad 13](afterwell-30/statics/13-trying-again-feels-hard.png)](afterwell-30/statics/13-trying-again-feels-hard.png) | **14**<br>[![Afterwell ad 14](afterwell-30/statics/14-another-jar-pulling-away.png)](afterwell-30/statics/14-another-jar-pulling-away.png) | **15**<br>[![Afterwell ad 15](afterwell-30/statics/15-morning-dry-patches.png)](afterwell-30/statics/15-morning-dry-patches.png) |
+| **16**<br>[![Afterwell ad 16](afterwell-30/statics/16-touch-and-itch.png)](afterwell-30/statics/16-touch-and-itch.png) | **17**<br>[![Afterwell ad 17](afterwell-30/statics/17-sore-skin-cream-time.png)](afterwell-30/statics/17-sore-skin-cream-time.png) | **18**<br>[![Afterwell ad 18](afterwell-30/statics/18-scared-to-try-again.png)](afterwell-30/statics/18-scared-to-try-again.png) |
+| **19**<br>[![Afterwell ad 19](afterwell-30/statics/19-followed-the-advice.png)](afterwell-30/statics/19-followed-the-advice.png) | **20**<br>[![Afterwell ad 20](afterwell-30/statics/20-new-cream-same-worry.png)](afterwell-30/statics/20-new-cream-same-worry.png) | **21**<br>[![Afterwell ad 21](afterwell-30/statics/21-when-flare-eases.png)](afterwell-30/statics/21-when-flare-eases.png) |
+| **22**<br>[![Afterwell ad 22](afterwell-30/statics/22-daycare-bag.png)](afterwell-30/statics/22-daycare-bag.png) | **23**<br>[![Afterwell ad 23](afterwell-30/statics/23-bedtime-still-scratching.png)](afterwell-30/statics/23-bedtime-still-scratching.png) | **24**<br>[![Afterwell ad 24](afterwell-30/statics/24-take-the-itch.png)](afterwell-30/statics/24-take-the-itch.png) |
+| **25**<br>[![Afterwell ad 25](afterwell-30/statics/25-no-explanation-owed.png)](afterwell-30/statics/25-no-explanation-owed.png) | **26**<br>[![Afterwell ad 26](afterwell-30/statics/26-they-feel-the-itch.png)](afterwell-30/statics/26-they-feel-the-itch.png) | **27**<br>[![Afterwell ad 27](afterwell-30/statics/27-before-another-cream.png)](afterwell-30/statics/27-before-another-cream.png) |
+| **28**<br>[![Afterwell ad 28](afterwell-30/statics/28-even-the-smell.png)](afterwell-30/statics/28-even-the-smell.png) | **29**<br>[![Afterwell ad 29](afterwell-30/statics/29-cream-feels-okay.png)](afterwell-30/statics/29-cream-feels-okay.png) | **30**<br>[![Afterwell ad 30](afterwell-30/statics/30-one-dry-patch.png)](afterwell-30/statics/30-one-dry-patch.png) |
 
-Earlier collections: [Feature-focused 20](pawzi-facebook-20) · [Previous 20](pawzi-remakes) · [Original 30](pawzi-ads)
+Earlier Pawzi collections: [20 solution ads](pawzi-solutions-20) · [20 feature-focused ads](pawzi-facebook-20) · [Previous 20](pawzi-remakes) · [Original 30](pawzi-ads)
