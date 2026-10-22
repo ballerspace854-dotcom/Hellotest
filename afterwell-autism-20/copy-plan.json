@@ -1,0 +1,146 @@
+{
+  "ads": [
+    {
+      "ad_number": 1,
+      "angle": "Can’t say it itches",
+      "headline": "No words. Still scratching.",
+      "support": "For autistic kids: soothes and moisturizes dry, itchy skin.",
+      "visual_variation": "Parent-native close crop of child wearing comfortable headphones, face mostly turned away, own fingers scratching a clearly inflamed scaly intact inner elbow. Parent open hand nearby; no assumption that headphones diagnose autism or all autistic children are nonspeaking."
+    },
+    {
+      "ad_number": 2,
+      "angle": "Sensory feel",
+      "headline": "For autistic kids, cream can feel like slime.",
+      "support": "Light, non-greasy moisture. Soaks in fast.",
+      "visual_variation": "Tactile sleeve-smear macro with child gently drawing own clothed arm back. Exact original jar is secondary. Generic thick ointment only; do not claim most creams fail or every child accepts this one."
+    },
+    {
+      "ad_number": 3,
+      "angle": "Broken routine",
+      "headline": "Bath. Pajamas. Cream. Then everything stops.",
+      "support": "For sensory kids: light moisture, with no added fragrance.",
+      "visual_variation": "Visual bedtime picture schedule with cream card askew, child’s intact scaly hands below it, fidget held loosely. No fake written parent story, torn-card outcome or claim the product fixes the routine."
+    },
+    {
+      "ad_number": 4,
+      "angle": "Sameness",
+      "headline": "Same bedtime. Cream changes the plan.",
+      "support": "Light, non-greasy moisture for autistic kids with dry skin.",
+      "visual_variation": "Warm wide bedtime still life with a few toys arranged in child’s preferred order, clothed child turned away holding own scaly intact forearm. Exact jar visible but not the first read. No universal claim about autistic routines."
+    },
+    {
+      "ad_number": 5,
+      "angle": "Favourite clothes and cream",
+      "headline": "Favourite shirt on. Cream still waits.",
+      "support": "For autistic kids: soothes and moisturizes dry, itchy skin.",
+      "visual_variation": "Candid close crop of much-loved dinosaur shirt, child controlling lifted cuff and visible severe scaly intact wrist. Parent waits rather than pulling the sleeve. Different daylight angle and bold caption placement from Ad4."
+    },
+    {
+      "ad_number": 6,
+      "angle": "The sensory list",
+      "headline": "Tags. Seams. Now the cream feels wrong.",
+      "support": "Light, non-greasy moisture for sensory kids with dry skin.",
+      "visual_variation": "Overhead tactile family flat-lay: removed clothing tags, cotton seam, headphones and exact jar, with child’s dry intact hand at the edge. No pile of diagnostic stereotypes or statement that all children dislike these things."
+    },
+    {
+      "ad_number": 7,
+      "angle": "Sleep workaround",
+      "headline": "Cream time waits until the house sleeps.",
+      "support": "For autistic kids: light feel. No added fragrance. No steroids.",
+      "visual_variation": "Quiet dark bedroom, star nightlight, clothed child resting under familiar blanket with scaly intact wrist visible, parent holding closed jar while waiting. Do not show forced or covert application, or imply sleeping acceptance proves results."
+    },
+    {
+      "ad_number": 8,
+      "angle": "Itch and overwhelm",
+      "headline": "The room is loud. The itch is louder.",
+      "support": "For sensory kids: light moisture. No added fragrance.",
+      "visual_variation": "Low ordinary playroom photo, child choosing a quiet blanket corner with hands near ears and an intact scaly patch behind the knee visible. Calm caring parent presence; no staged panic, tears, restraint or claim to reduce sensory overload."
+    },
+    {
+      "ad_number": 9,
+      "angle": "Rubbing has different causes",
+      "headline": "An autistic kid keeps rubbing. It could be itch.",
+      "support": "Rubbing has many causes. Dry, itchy skin is one.",
+      "visual_variation": "Close current-moment photo of child gently rubbing visibly dry scaly intact forearm, familiar fidget nearby. No stim-versus-itch diagnostic quiz, no equation of stimming with itching, and no claim cream stops stimming."
+    },
+    {
+      "ad_number": 10,
+      "angle": "School and itch",
+      "headline": "Drawing stops. The scratching starts.",
+      "support": "For autistic kids: soothe and moisturize dry, itchy skin.",
+      "visual_variation": "Activity table with half-finished drawing, pencil set down and fidget toy, child fingertips near inflamed scaly intact elbow. No claim of better learning, sitting still or classroom behavior."
+    },
+    {
+      "ad_number": 11,
+      "angle": "Feel matters in skin care",
+      "headline": "For autistic kids, the feel matters too.",
+      "support": "Light, non-greasy feel. No added fragrance. No steroids.",
+      "visual_variation": "Quiet product-and-family-kit composition on soft blanket, one set of headphones or one chewable item beside the unchanged source jar and child’s dry intact hand. No invented made-for-autism formulation, test, endorsement or special clinical benefit.",
+      "footnote": "Contains oats. Patch test first."
+    },
+    {
+      "ad_number": 12,
+      "angle": "Thick cream pushed away",
+      "headline": "Thick cream can still get pushed away.",
+      "support": "For sensory kids: light, non-greasy moisture. No added fragrance.",
+      "visual_variation": "Parent holds a generic unbranded thick ointment tub as child withdraws own arm; original source jar remains clearly separate. No discarded prescribed medicine and no claim this cream stays on or is accepted."
+    },
+    {
+      "ad_number": 13,
+      "angle": "Us versus them, without blanket claims",
+      "headline": "Sensory kids notice more than the itch.",
+      "support": "Light feel. Soaks in fast. No added fragrance. No steroids.",
+      "visual_variation": "Clean two-column choice graphic using generic unbranded ointment texture and unchanged source jar. Left can say Check its label.; right uses assigned allowed feel facts. Do not label every other cream sticky, smelly or ineffective; no clinical skin-result pair."
+    },
+    {
+      "ad_number": 14,
+      "angle": "Bounded feel claims",
+      "headline": "Some sensory kids pull away from cream.",
+      "support": "No added fragrance. Light, non-greasy feel. No steroids.",
+      "visual_variation": "Child voluntarily rests intact scaly arm near parent fingertip with small dab, face cropped, no gripping or forced application. New diagonal photo crop and understated blue rule. Do not turn this illustrative moment into guaranteed acceptance, no smell or zero residue."
+    },
+    {
+      "ad_number": 15,
+      "angle": "Many creams, the same feel question",
+      "headline": "So many creams. The feel still matters.",
+      "support": "For autistic kids: light, non-greasy moisture. No added fragrance.",
+      "visual_variation": "Bathroom cupboard with generic half-used tubes and one fixed original jar, child sleeve/hand at frame edge. No invented nine-creams count, fake receipt, spending claim or statement every prior cream failed.",
+      "footnote": "Contains oats. Patch test first."
+    },
+    {
+      "ad_number": 16,
+      "angle": "The cream card in the routine",
+      "headline": "A cream card. A little more choice.",
+      "support": "Light, non-greasy moisture for autistic kids with dry skin.",
+      "visual_variation": "Picture schedule above ordinary bedtime setup, a clear empty cream-step position or a parent holding the loose cream card. Use the original jar image on a card only if needed, never relabel it. No finally-stays-on-schedule or better-routine outcome."
+    },
+    {
+      "ad_number": 17,
+      "angle": "Child-led control",
+      "headline": "Some autistic kids want to apply cream themselves.",
+      "support": "One finger. Their pace. Light, non-greasy feel.",
+      "visual_variation": "Child chooses a small dab on own finger while parent steadies the unchanged jar; other clothed arm has intact scaly patch. No universal child tolerance, measured dose, or claim independence improves because of the product."
+    },
+    {
+      "ad_number": 18,
+      "angle": "Prescribed care plus daily cream",
+      "headline": "Prescribed care. Daily cream. Different jobs.",
+      "support": "For autistic kids: Afterwell has no steroids. Use prescriptions as directed.",
+      "visual_variation": "Respectful split of generic unbranded prescription tube and unchanged source jar. Rx caption Use as prescribed.; product caption No steroids. No bad-days-only, other-days-only, rationing, short-course or prescription-replacement instruction."
+    },
+    {
+      "ad_number": 19,
+      "angle": "The first touch matters",
+      "headline": "Sensory kids notice the first touch.",
+      "support": "Light, non-greasy feel. No added fragrance. No steroids.",
+      "visual_variation": "Intimate close crop of child’s open hand resting voluntarily beside exact jar, visible scaly intact wrist, parent patiently nearby. No doctor badge, claimed doctor approval, fabricated clinical quotation or product fragrance-free claim."
+    },
+    {
+      "ad_number": 20,
+      "angle": "Bath to cream step",
+      "headline": "Bath done. Cream is the next hard step.",
+      "support": "For autistic kids: light, non-greasy moisture. No added fragrance.",
+      "visual_variation": "Three distinct current-step photos: clothed or securely towel-wrapped child after bath, patting intact dry skin, then a small cream dab and unchanged source jar. No skin-clearing progression, done-without-refusal promise, guaranteed routine result or numeric timing."
+    }
+  ]
+}

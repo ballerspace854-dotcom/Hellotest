@@ -1,3 +1,17 @@
+# Afterwell — 20 ads for parents of autistic kids
+
+20 remade **1080 × 1350** ads. Every ad names autistic or sensory kids in third person and uses a new scene. The product image and separate blue Afterwell logo are unchanged from the previous set.
+
+- [View all 20 ads](afterwell-autism-20/README.md)
+- [Download all 20 full-size PNGs (ZIP)](https://github.com/ballerspace854-dotcom/Hellotest/raw/refs/heads/main/afterwell-autism-20/afterwell-autism-20.zip)
+- [Browse individual PNGs](afterwell-autism-20/statics)
+- [Open the contact sheet (PDF)](afterwell-autism-20/contact-sheet.pdf)
+
+[![Preview of all 20 autism and sensory-focused Afterwell ads](afterwell-autism-20/contact-sheet.jpg)](afterwell-autism-20/README.md)
+
+<details>
+<summary>Previous ad sets</summary>
+
 # Afterwell — 30 new ads
 
 30 finished **1080 × 1350** ads following the updated brief. The jar retains its original printed label and wave mark. The supplied Afterwell logo appears separately in blue.
@@ -56,5 +70,7 @@ Click any image to open the full-size PNG.
 | **28**<br>[![Afterwell ad 28](afterwell-30/statics/28-even-the-smell.png)](afterwell-30/statics/28-even-the-smell.png) | **29**<br>[![Afterwell ad 29](afterwell-30/statics/29-cream-feels-okay.png)](afterwell-30/statics/29-cream-feels-okay.png) | **30**<br>[![Afterwell ad 30](afterwell-30/statics/30-one-dry-patch.png)](afterwell-30/statics/30-one-dry-patch.png) |
 
 Earlier Pawzi collections: [20 solution ads](pawzi-solutions-20) · [20 feature-focused ads](pawzi-facebook-20) · [Previous 20](pawzi-remakes) · [Original 30](pawzi-ads)
+
+</details>
 
 </details>

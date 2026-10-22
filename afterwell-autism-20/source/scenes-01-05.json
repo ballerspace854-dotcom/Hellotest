@@ -1,0 +1,68 @@
+{
+  "batch": "New source photographs 01\u201305 for latest autism/sensory 20-ad remake",
+  "brief": "/workspace/attachments/6e6c9a5c-7f4d-4de6-a8c1-38173122d189/Pasted text.txt",
+  "scope": "Source photographs only. Root composites unchanged original supplier jar, separate official blue logo and copy.",
+  "method": "New image_gen scenes without image references; original generated files preserved.",
+  "images": [
+    {
+      "id": 1,
+      "filename": "scene-01.png",
+      "prompt": "Create one NEW portrait 4:5 photograph, realistic ordinary family skincare advertising, taken with a parent's phone in a lived-in home. A fully clothed six-year-old boy in a plain faded blue short-sleeve shirt sits sideways on a sofa wearing plain charcoal ear defenders. Face mostly out of frame, no text. The lower middle of the photo focuses on his inner elbow: one clearly visible palm-sized red eczema patch with a rough flaky white-scaled surface, entirely intact closed skin, non-graphic. He gently rubs the patch with the fingers of his other hand. A parent's relaxed open hand is nearby on the sofa, not holding or restraining him. Correct natural arm and finger anatomy. Neutral calm moment, ordinary late-afternoon window light and candid phone-camera texture. Headphones and the eczema patch must be clear. Keep the upper quarter softly empty pale wall, and some lower-right sofa space for later design. The only skin concern is the single intact dry elbow patch; no wounds or blood. Photo only: no jars, no tubes, no skincare packaging, no visible branded items, no readable words, letters, logos, captions or graphic overlays. Do not create any ad typography or product.",
+      "source_path": "/workspace/generated_images/exec-0114c7c4-4628-469d-bee7-8e8af64f09ab.png",
+      "output_hint": "Generated images are saved to /workspace/generated_images as /workspace/generated_images/exec-0114c7c4-4628-469d-bee7-8e8af64f09ab.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+      "saved_path": "/workspace/afterwell-autism-20/assets/scene-01.png",
+      "visually_inspected": true,
+      "qa_note": "Headphones, child's gentle elbow rub and relaxed parent hand visible. One non-graphic intact red/flaky patch; natural hands; no product, branding or text.",
+      "width": 1122,
+      "height": 1402
+    },
+    {
+      "id": 2,
+      "filename": "scene-02.png",
+      "prompt": "Make a NEW vertical 4:5 candid parent-phone photograph for ordinary family moisturizer advertising. A fully clothed seven-year-old child with medium-brown skin sits at the edge of a bed in a plain mustard-yellow cotton long-sleeve shirt, face above and outside the frame. Close diagonal composition around the child's sleeve and forearm. The child has just pulled their own arm back, leaving a clearly visible thick white cosmetic cream smear across the cotton sleeve cuff. A separate oval dry red scaly eczema patch on the exposed forearm is intact closed skin and visible clearly, no cream being put on it. One small unbranded silicone fidget ring rests on the blue duvet nearby. The child is calm, not restrained or touched by anyone. Natural anatomy with one pair of hands, ordinary indoor daylight, soft imperfect bed linens, realistic phone photograph rather than polished stock photography. Upper-left quarter is soft empty wall for later copy; lower-right duvet has room for a separate packshot. No product jars or skincare packages anywhere, no tubes, no words or logos, no branded clothing, no split screen, no before-after and no graphic overlays. This is a benign fully clothed everyday skincare scene with only non-graphic intact dry skin.",
+      "source_path": "/workspace/generated_images/exec-0a15a1ca-eb1d-45fd-bcbb-7f9c32d4f404.png",
+      "output_hint": "Generated images are saved to /workspace/generated_images as /workspace/generated_images/exec-0a15a1ca-eb1d-45fd-bcbb-7f9c32d4f404.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+      "saved_path": "/workspace/afterwell-autism-20/assets/scene-02.png",
+      "visually_inspected": true,
+      "qa_note": "Cream smear on sleeve, wrist/forearm dry patch and fidget ring visible. Skin remains intact; cream on fabric only; no product, branding or text.",
+      "width": 1122,
+      "height": 1402
+    },
+    {
+      "id": 3,
+      "filename": "scene-03.png",
+      "prompt": "Create a NEW portrait 4:5 realistic parent-phone source photograph, benign family eczema-moisturizer advertising. A modest hallway beside a child's bedroom with pale warm-gray wall and an ordinary low wooden shelf. A homemade visual bedtime schedule has exactly four small plain white picture cards held in a simple horizontal row. Each has only one very simple hand-painted blue icon: bath, pajamas, a cosmetic cream droplet, and a crescent moon; absolutely no letters or numbers. The cream-droplet picture card is visibly crumpled and tilted but still attached. Below the schedule at lower middle, the two small hands of a fully clothed eight-year-old child with dark-brown skin rest naturally on the shelf, cuffs of a plain rust cotton top visible. One hand and wrist has an obvious rough dry eczema patch with darker reddish coloration and fine light flaky scales, entirely intact skin, non-graphic. Face and body outside the crop. No restraint, no applying cream. Subtle daily-life clutter, gentle natural window light, phone-camera realism, correct hand anatomy. Leave the upper quarter of wall empty above the cards and lower-right shelf space for later design. Do not show any skincare jar, tube, packaging, words, numbers, logos, readable writing, ad text, branded items or graphic overlays. One photo only, no comparison.",
+      "source_path": "/workspace/generated_images/exec-35109ad8-842b-4dc3-836d-95550c50130b.png",
+      "output_hint": "Generated images are saved to /workspace/generated_images as /workspace/generated_images/exec-35109ad8-842b-4dc3-836d-95550c50130b.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+      "saved_path": "/workspace/afterwell-autism-20/assets/scene-03.png",
+      "visually_inspected": true,
+      "qa_note": "Four text-free schedule picture cards, creased/tilted droplet card and child's dry/scaly hand visible. No products or readable ad text; lower-right book-spine marks are incidental and not readable.",
+      "width": 1122,
+      "height": 1402
+    },
+    {
+      "id": 4,
+      "filename": "scene-04.png",
+      "prompt": "Create one NEW portrait 4:5 photograph for ordinary non-graphic family moisturizer advertising, realistic candid phone photo in a lived-in child's room at bedtime. A fully clothed five-year-old child with light-olive skin and dark hair sits on the edge of a low bed, turned away from the camera, wearing plain teal short-sleeved pajamas and cotton trousers. Their right inner elbow is turned naturally toward the camera, showing one clearly visible red dry eczema patch with fine pale flaky scales on intact closed skin. Their other hand rests gently below that elbow, no scratching hard. Beside them on the bed are ordinary soft ear defenders, no brand. Three well-loved toy cars are lined up neatly along a wooden bedside shelf; simple tidy bedtime details, not a contrived perfect showroom. Camera from a low diagonal angle across the blanket, warm bedside lamplight mixed with cool evening window light. The child is calm with face turned away, no adult touching or restraining them. Correct anatomy. Leave pale wall in the upper quarter and uncluttered blanket at bottom right for later advertising design. No cream or application, no jar, tube, bottle, product packaging, written text, numbers, logos, branding, charts, graphic effects or overlays. One ordinary photo with a single obvious but non-graphic dry skin patch.",
+      "source_path": "/workspace/generated_images/exec-4cc46597-7c18-480f-a22a-d16e0b0bff96.png",
+      "output_hint": "Generated images are saved to /workspace/generated_images as /workspace/generated_images/exec-4cc46597-7c18-480f-a22a-d16e0b0bff96.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+      "saved_path": "/workspace/afterwell-autism-20/assets/scene-04.png",
+      "visually_inspected": true,
+      "qa_note": "Turned-away child, three lined-up toy cars, headphones and one intact scaly elbow patch visible. Natural hand grip below elbow; no product, branding or text.",
+      "width": 1122,
+      "height": 1402
+    },
+    {
+      "id": 5,
+      "filename": "scene-05.png",
+      "prompt": "Make one NEW portrait 4:5 candid phone-camera photograph for benign everyday family eczema-moisturizer advertising. At a slightly worn white kitchen table, a fully clothed nine-year-old child with light skin wears a favorite faded forest-green T-shirt with one simple orange dinosaur drawing and absolutely no writing. Frame from the shoulders down so the face is cropped; short sleeves, charcoal cotton trousers. The foreground shows the child's relaxed wrist and hand on the table with one prominent oval red rough eczema patch around the wrist, thick dry white flaking scales on entirely intact closed skin, non-graphic. The skin outside that patch looks normal. The other hand loosely holds the shirt hem, no restraint or cream application. A plain pair of navy ear defenders lies next to a small homemade dinosaur drawing on blank paper, with no written words. Gentle overcast daylight, natural unposed details, honest phone photography with realistic pores and mild household clutter, anatomically correct hands and arms. Main patch lower-middle, shirt dinosaur clearly recognizable above it. Leave the upper-left wall and a lower-right corner of tabletop clear for later copy and a separately added product. No jars, tubs, bottles, tubes, skincare packaging, product labels, logos, words, numbers, graphic design or overlays. No split screen, no result claim or skin comparison.",
+      "source_path": "/workspace/generated_images/exec-73b458de-fdb0-4881-8773-fe16d4f277df.png",
+      "output_hint": "Generated images are saved to /workspace/generated_images as /workspace/generated_images/exec-73b458de-fdb0-4881-8773-fe16d4f277df.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+      "saved_path": "/workspace/afterwell-autism-20/assets/scene-05.png",
+      "visually_inspected": true,
+      "qa_note": "Favorite dinosaur shirt, headphones and one prominent intact flaky wrist patch visible. Correct relaxed hands; no product, branding or text.",
+      "width": 1122,
+      "height": 1402
+    }
+  ]
+}

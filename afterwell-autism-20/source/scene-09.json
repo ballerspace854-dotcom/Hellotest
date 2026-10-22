@@ -1,0 +1,10 @@
+{
+  "id": "09",
+  "image_asset": "/workspace/afterwell-autism-20/assets/scene-09.png",
+  "generated_original_path": "/workspace/generated_images/exec-e18a500a-e6a6-46eb-a9f6-f52bdc1d0c9c.png",
+  "output_hint": "Generated images are saved to /workspace/generated_images as /workspace/generated_images/exec-e18a500a-e6a6-46eb-a9f6-f52bdc1d0c9c.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+  "generation_prompt": "Vertical4:5 NEW candid parent-phone source photograph of a clothed school-age child seated on an ordinary living-room sofa. Frame from below chin to lap so no face focus. Child in a mustard cotton long-sleeve shirt with sleeves pushed up gently RUBS their own forearm with fingertips of other hand. A clearly visible RED dry scaly eczema patch on that forearm has intact matte skin and white flakes; no wound or injury. The rubbing is an ordinary ambiguous itch-care moment, no symbolic labeling or therapy pose. Two natural connected arms, fingers proportionate. Plain unbranded wooden fidget cube and dark ear-defender headphones rest nearby on cushion, small background context rather than hero. Uneven late-afternoon daylight, warm normal household texture, real skin pores, not glossy stock. No product jar, bottle, packaging, logos, labels, words or graphics. Quiet sofa fabric lower-right for later compositing.",
+  "notes": [
+    "New text-free source photo; root adds fixed original product and separate official blue logo."
+  ]
+}

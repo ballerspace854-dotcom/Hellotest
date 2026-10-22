@@ -1,0 +1,11 @@
+{
+  "id": "08",
+  "image_asset": "/workspace/afterwell-autism-20/assets/scene-08.png",
+  "generated_original_path": "/workspace/generated_images/exec-54b010d0-05d9-4d8c-911e-7a799c278920.png",
+  "output_hint": "Generated images are saved to /workspace/generated_images as /workspace/generated_images/exec-54b010d0-05d9-4d8c-911e-7a799c278920.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+  "generation_prompt": "Vertical4:5 natural smartphone source photo of a calm fully clothed school-age child sitting sideways on a living-room floor mat, hands resting gently over their own ears, head turned away. Wide ordinary family-home view, not clinical or dramatic. Loose navy cotton tee and comfortable cotton shorts ending above knees, normal relaxed seated posture with one leg bent to side. A clearly visible dry scaly gray-purple eczema patch sits in the skin fold behind the bent knee; intact skin, non-graphic. Natural anatomy, ordinary caring mood, no crying or force. A few wooden blocks on rug, soft daylight from window, imperfect parent-phone framing. No text, logos, jars, bottles, products or packaging. Leave quiet rug area at left for later separate composition.",
+  "notes": [
+    "New text-free source photo; root adds fixed original product and separate official blue logo.",
+    "Wider calm fully clothed version after output moderation rejection."
+  ]
+}
